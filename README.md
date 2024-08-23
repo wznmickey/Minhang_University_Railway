@@ -21,4 +21,4 @@ THANKS ALL IN https://shuiyuan.sjtu.edu.cn/t/topic/295957 who provides ideas, su
 
 BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 
-The json file is formatted by prettier to make `merge` possible.
+The exported json file is formatted by prettier to make `merge` possible.
