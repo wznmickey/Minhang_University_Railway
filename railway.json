@@ -1,15 +1,8 @@
 {
-  "svgViewBoxZoom": 97,
-  "svgViewBoxMin": {
-    "x": 702.256210327145,
-    "y": -892.995997009278
-  },
+  "svgViewBoxZoom": 107,
+  "svgViewBoxMin": { "x": 539.936210327143, "y": 70.24400299072249 },
   "graph": {
-    "options": {
-      "type": "directed",
-      "multi": true,
-      "allowSelfLoops": true
-    },
+    "options": { "type": "directed", "multi": true, "allowSelfLoops": true },
     "attributes": {},
     "nodes": [
       {
@@ -35,8 +28,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1045,
-          "y": 575,
+          "x": 1040,
+          "y": 505,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["霍英东", ""],
@@ -50,8 +43,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1095,
-          "y": 695,
+          "x": 1105,
+          "y": 690,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["玉兰院", ""],
@@ -65,8 +58,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1085,
-          "y": 755,
+          "x": 1090,
+          "y": 750,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["下院", ""],
@@ -83,12 +76,12 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 935,
-          "y": 845,
+          "x": 955,
+          "y": 795,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["胡法光", ""],
-            "nameOffsetX": "middle",
+            "nameOffsetX": "left",
             "nameOffsetY": "bottom"
           }
         }
@@ -116,7 +109,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 975,
+          "x": 915,
           "y": 480,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -146,7 +139,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1045,
+          "x": 1040,
           "y": 845,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -162,7 +155,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1085,
-          "y": 795,
+          "y": 805,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["上院", ""],
@@ -180,10 +173,10 @@
           "visible": true,
           "zIndex": 0,
           "x": 1170,
-          "y": 755,
+          "y": 765,
           "type": "shmetro-int",
           "shmetro-int": {
-            "names": ["南体", ""],
+            "names": ["南体馆", ""],
             "nameOffsetX": "middle",
             "nameOffsetY": "top",
             "rotate": 0,
@@ -197,7 +190,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1260,
+          "x": 1265,
           "y": 750,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -213,7 +206,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1280,
-          "y": 700,
+          "y": 710,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["东下院", ""],
@@ -228,7 +221,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1320,
-          "y": 660,
+          "y": 655,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["图书信息楼", ""],
@@ -245,8 +238,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1300,
-          "y": 615,
+          "x": 1310,
+          "y": 600,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["植物园", ""],
@@ -264,7 +257,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1425,
-          "y": 530,
+          "y": 470,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["智慧能源", ""],
@@ -333,12 +326,12 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1095,
-          "y": 770,
+          "x": 1105,
+          "y": 780,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["中院", ""],
-            "nameOffsetX": "right",
+            "nameOffsetX": "left",
             "nameOffsetY": "middle",
             "rotate": 0,
             "height": 10,
@@ -351,13 +344,13 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1125,
-          "y": 850,
+          "x": 1150,
+          "y": 855,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["校医院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
           }
         }
       },
@@ -366,13 +359,16 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1120,
-          "y": 735,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
+          "x": 1130,
+          "y": 730,
+          "type": "shmetro-int",
+          "shmetro-int": {
             "names": ["一餐", ""],
             "nameOffsetX": "middle",
-            "nameOffsetY": "top"
+            "nameOffsetY": "top",
+            "rotate": 0,
+            "height": 10,
+            "width": 13
           }
         }
       },
@@ -381,11 +377,11 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1230,
-          "y": 705,
+          "x": 1240,
+          "y": 720,
           "type": "shmetro-int",
           "shmetro-int": {
-            "names": ["新学服", ""],
+            "names": ["致远学院", ""],
             "nameOffsetX": "middle",
             "nameOffsetY": "bottom",
             "rotate": 0,
@@ -399,8 +395,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1160,
-          "y": 650,
+          "x": 1165,
+          "y": 660,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["北篮", ""],
@@ -418,7 +414,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1300,
-          "y": 680,
+          "y": 690,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["陈瑞球楼", ""],
@@ -436,7 +432,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1390,
-          "y": 700,
+          "y": 680,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["电信学院", ""],
@@ -556,7 +552,7 @@
           "y": 530,
           "type": "shmetro-basic",
           "shmetro-basic": {
-            "names": ["转换医学楼", ""],
+            "names": ["转化医学楼", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "middle"
           }
@@ -586,7 +582,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1285,
-          "y": 750,
+          "y": 745,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["东中院", ""],
@@ -603,8 +599,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1220,
-          "y": 780,
+          "x": 1235,
+          "y": 795,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["棒垒球场", ""],
@@ -618,13 +614,13 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1060,
-          "y": 755,
+          "x": 1055,
+          "y": 735,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["包玉刚图书馆", ""],
             "nameOffsetX": "middle",
-            "nameOffsetY": "top"
+            "nameOffsetY": "bottom"
           }
         }
       },
@@ -633,12 +629,12 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1030,
-          "y": 745,
+          "x": 1010,
+          "y": 715,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["材料学院", ""],
-            "nameOffsetX": "left",
+            "nameOffsetX": "right",
             "nameOffsetY": "middle",
             "rotate": 0,
             "height": 10,
@@ -651,8 +647,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 985,
-          "y": 755,
+          "x": 970,
+          "y": 740,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["致院游泳馆", ""],
@@ -666,7 +662,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1030,
+          "x": 1020,
           "y": 620,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -681,13 +677,13 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1125,
-          "y": 555,
+          "x": 1145,
+          "y": 575,
           "type": "shmetro-basic",
           "shmetro-basic": {
-            "names": ["西区学生宿舍", ""],
+            "names": ["西三宿东", ""],
             "nameOffsetX": "right",
-            "nameOffsetY": "top"
+            "nameOffsetY": "middle"
           }
         }
       },
@@ -697,12 +693,12 @@
           "visible": true,
           "zIndex": 0,
           "x": 1250,
-          "y": 555,
+          "y": 575,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["三餐", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
+            "nameOffsetX": "left",
+            "nameOffsetY": "middle"
           }
         }
       },
@@ -711,8 +707,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1060,
-          "y": 610,
+          "x": 1050,
+          "y": 605,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["四餐", ""],
@@ -726,13 +722,13 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1260,
+          "x": 1280,
           "y": 645,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["逸夫科技楼", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "top"
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
           }
         }
       },
@@ -741,8 +737,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1260,
-          "y": 810,
+          "x": 1290,
+          "y": 815,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["东上院　", ""],
@@ -777,13 +773,16 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1125,
+          "x": 1145,
           "y": 610,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
+          "type": "shmetro-int",
+          "shmetro-int": {
             "names": ["环境学院", ""],
             "nameOffsetX": "right",
-            "nameOffsetY": "top"
+            "nameOffsetY": "middle",
+            "rotate": 0,
+            "height": 10,
+            "width": 13
           }
         }
       },
@@ -792,8 +791,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 1420,
-          "y": 750,
+          "x": 1415,
+          "y": 755,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["五餐", ""],
@@ -840,8 +839,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 890,
-          "y": 755,
+          "x": 840,
+          "y": 740,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["闵行幼儿园", ""],
@@ -855,8 +854,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "x": 890,
-          "y": 810,
+          "x": 870,
+          "y": 795,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["交大新村", ""],
@@ -1030,7 +1029,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 925,
-          "y": 610,
+          "y": 605,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["沧源科技园", ""],
@@ -1168,7 +1167,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1735,
-          "y": 725,
+          "y": 750,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["密西根学院", ""],
@@ -1536,7 +1535,7 @@
           "y": -905,
           "type": "shmetro-int",
           "shmetro-int": {
-            "names": ["交通大学", "Stn"],
+            "names": ["交通大学", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top",
             "rotate": 0,
@@ -1603,30 +1602,537 @@
           "type": "virtual",
           "virtual": {}
         }
-      }
-    ],
-    "edges": [
+      },
       {
-        "key": "line_feROzCobFo",
-        "source": "stn_NgXpWVzh3s",
-        "target": "stn_vpsDUMWstB",
+        "key": "stn_xGU2WpwHQ_",
         "attributes": {
           "visible": true,
           "zIndex": 0,
-          "type": "perpendicular",
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#E3002B", "#fff"]
-          },
-          "reconcileId": "",
-          "perpendicular": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 18.33
+          "x": 1110,
+          "y": 515,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["西五宿", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
           }
         }
       },
+      {
+        "key": "stn_UwstrLHxdq",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1130,
+          "y": 540,
+          "type": "shmetro-int",
+          "shmetro-int": {
+            "names": ["西四宿", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top",
+            "rotate": 0,
+            "height": 10,
+            "width": 13
+          }
+        }
+      },
+      {
+        "key": "stn_y8l0Kgjl8f",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1075,
+          "y": 505,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["北一门", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_XHy6YHqNG_",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1145,
+          "y": 640,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["西二宿", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_XqUvAplflb",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1165,
+          "y": 695,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["子衿街", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_ZqmYkdX7-O",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1080,
+          "y": 860,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["思源门", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_ZRGtwuIHpx",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 965,
+          "y": 860,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["网球场", ""],
+            "nameOffsetX": "left",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_hdiFF1oAsf",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1400,
+          "y": 815,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["软件学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_3TVQ25obeE",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1505,
+          "y": 815,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["南大门", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_S-_PG10aNI",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1580,
+          "y": 815,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["航空航天学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_p5HNgJ5T99",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1190,
+          "y": 810,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["南体场南", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_AhTrgyDRY5",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1135,
+          "y": 805,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["西一宿南", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_3L8xaXkI24",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1260,
+          "y": 810,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["东一宿南", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_6WPxSHcWbs",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1330,
+          "y": 795,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["外国语学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_5gU6X4ZNYJ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1335,
+          "y": 770,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["人文学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_fPMCOzrPt_",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1335,
+          "y": 750,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["设计学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_z30DOvFauU",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1335,
+          "y": 735,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["马院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_aHTl8PHguP",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1325,
+          "y": 700,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["媒传学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_8c-DwBbUH0",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1335,
+          "y": 715,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["法学院", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_FwuY8pxRCH",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1265,
+          "y": 605,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["东三宿", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_pPl6Dofrc6",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1250,
+          "y": 540,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["东四宿南", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_FBvAADWjFi",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1235,
+          "y": 520,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["东四宿北", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_s2pT3MFrBt",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1185,
+          "y": 520,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["气膜馆", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_lkuFaI7JL3",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1105,
+          "y": 580,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["西三宿西", ""],
+            "nameOffsetX": "left",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_Ef-ofr9ZYq",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 985,
+          "y": 655,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["理科实验楼", ""],
+            "nameOffsetX": "left",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_DRGBU6t2JQ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 960,
+          "y": 680,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["西二门", ""],
+            "nameOffsetX": "left",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_62uOwY9xD5",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1250,
+          "y": 655,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["学生中心", ""],
+            "nameOffsetX": "left",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_pkBBq0DXO1",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1270,
+          "y": 675,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["东二宿", ""],
+            "nameOffsetX": "left",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_mJcUxkZILS",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1265,
+          "y": 775,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["蓁蓁楼", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_k8zKudnMHW",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1275,
+          "y": 795,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["东一宿北", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "middle"
+          }
+        }
+      },
+      {
+        "key": "stn_nMc0iDj2HS",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1185,
+          "y": 780,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["南体场北", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_vgPcbf4HJV",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1140,
+          "y": 780,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["哈乐餐厅", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_xi379BO_uQ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1010,
+          "y": 805,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["撷英园", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "top"
+          }
+        }
+      },
+      {
+        "key": "stn_dnSJyOZx59",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 1045,
+          "y": 805,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["思源湖南", ""],
+            "nameOffsetX": "middle",
+            "nameOffsetY": "bottom"
+          }
+        }
+      },
+      {
+        "key": "stn_tuUEhhDO9D",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "x": 950,
+          "y": 725,
+          "type": "shmetro-basic",
+          "shmetro-basic": {
+            "names": ["西一门", ""],
+            "nameOffsetX": "right",
+            "nameOffsetY": "top"
+          }
+        }
+      }
+    ],
+    "edges": [
       {
         "key": "line_8NTTCF-puJ",
         "source": "stn_DNas45DmcK",
@@ -1642,9 +2148,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#E3002B", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#E3002B", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -1657,9 +2161,7 @@
           "zIndex": 0,
           "type": "perpendicular",
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#E3002B", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#E3002B", "#fff"] },
           "reconcileId": "",
           "perpendicular": {
             "startFrom": "from",
@@ -1667,48 +2169,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 18.33
           }
-        }
-      },
-      {
-        "key": "line_ecvVNkxFtq",
-        "source": "stn_xEqJFR2mPW",
-        "target": "stn_y-cUIeURCV",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#E3002B", "#fff"]
-          },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_67fRhVAAB-",
-        "source": "stn_y-cUIeURCV",
-        "target": "stn_vpsDUMWstB",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#E3002B", "#fff"]
-          },
-          "reconcileId": ""
         }
       },
       {
@@ -1726,9 +2186,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -1769,9 +2227,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -1791,9 +2247,7 @@
           },
           "style": "bjsubway-dotted",
           "reconcileId": "",
-          "bjsubway-dotted": {
-            "color": ["shanghai", "sh5", "#944d9a", "#fff"]
-          }
+          "bjsubway-dotted": { "color": ["shanghai", "sh5", "#944d9a", "#fff"] }
         }
       },
       {
@@ -1810,9 +2264,9 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-          "style": "shmetro-virtual-int",
+          "style": "bjsubway-tram",
           "reconcileId": "",
-          "shmetro-virtual-int": {}
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
         }
       },
       {
@@ -1829,30 +2283,9 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-          "style": "shmetro-virtual-int",
+          "style": "bjsubway-tram",
           "reconcileId": "",
-          "shmetro-virtual-int": {}
-        }
-      },
-      {
-        "key": "line_Qzw2eOST63",
-        "source": "stn_mvBab8iRCh",
-        "target": "stn_2AzwDf9Lec",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh10", "#c6afd4", "#000"]
-          },
-          "reconcileId": ""
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
         }
       },
       {
@@ -1870,9 +2303,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh10", "#c6afd4", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
           "reconcileId": ""
         }
       },
@@ -1885,9 +2316,7 @@
           "zIndex": 0,
           "type": "perpendicular",
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh10", "#c6afd4", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
           "reconcileId": "",
           "perpendicular": {
             "startFrom": "to",
@@ -1912,9 +2341,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh10", "#c6afd4", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
           "reconcileId": ""
         }
       },
@@ -1933,9 +2360,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh10", "#c6afd4", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
           "reconcileId": ""
         }
       },
@@ -1954,9 +2379,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -1975,9 +2398,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -1996,9 +2417,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2017,9 +2436,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2038,9 +2455,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2059,9 +2474,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2080,113 +2493,8 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_DeD7_lIaSG",
-        "source": "stn_NgXpWVzh3s",
-        "target": "stn_nXXEEmpQEz",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_JdFpad_FDO",
-        "source": "stn_nXXEEmpQEz",
-        "target": "stn_KbtxARBE8X",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_2tKyE9wlew",
-        "source": "stn_sDeCNnAGRG",
-        "target": "stn_8Yl4pi5_D0",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_vuriJrfbJE",
-        "source": "stn_8Yl4pi5_D0",
-        "target": "stn_NtxCzcSl__",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_w-eOP3C1fo",
-        "source": "stn_sDeCNnAGRG",
-        "target": "stn_8PWxEqABwI",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "shmetro-virtual-int",
-          "reconcileId": "",
-          "shmetro-virtual-int": {}
         }
       },
       {
@@ -2203,28 +2511,9 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-          "style": "shmetro-virtual-int",
+          "style": "bjsubway-tram",
           "reconcileId": "",
-          "shmetro-virtual-int": {}
-        }
-      },
-      {
-        "key": "line_yb6KWfkc-1",
-        "source": "stn_sDeCNnAGRG",
-        "target": "stn_y-cUIeURCV",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "shmetro-virtual-int",
-          "reconcileId": "",
-          "shmetro-virtual-int": {}
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
         }
       },
       {
@@ -2243,9 +2532,7 @@
           },
           "style": "bjsubway-dotted",
           "reconcileId": "",
-          "bjsubway-dotted": {
-            "color": ["shanghai", "sh5", "#944d9a", "#fff"]
-          }
+          "bjsubway-dotted": { "color": ["shanghai", "sh5", "#944d9a", "#fff"] }
         }
       },
       {
@@ -2322,9 +2609,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2343,9 +2628,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2364,9 +2647,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2385,9 +2666,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2406,9 +2685,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2427,9 +2704,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2448,9 +2723,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh10", "#c6afd4", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2469,9 +2742,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2490,9 +2761,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2511,30 +2780,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_XkubmmpSUW",
-        "source": "stn_iqYkeWpw8I",
-        "target": "stn_sDeCNnAGRG",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2553,9 +2799,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2574,9 +2818,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2595,9 +2837,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2616,9 +2856,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2637,9 +2875,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2658,9 +2894,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2679,9 +2913,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2700,9 +2932,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2721,9 +2951,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2761,9 +2989,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2783,9 +3009,7 @@
           },
           "style": "bjsubway-dotted",
           "reconcileId": "",
-          "bjsubway-dotted": {
-            "color": ["shanghai", "sh5", "#944d9a", "#fff"]
-          }
+          "bjsubway-dotted": { "color": ["shanghai", "sh5", "#944d9a", "#fff"] }
         }
       },
       {
@@ -2803,9 +3027,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2824,9 +3046,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2845,9 +3065,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2866,9 +3084,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh1", "#e3002b", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2906,9 +3122,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2927,9 +3141,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -2948,9 +3160,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2969,9 +3179,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -2990,9 +3198,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3011,9 +3217,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3026,9 +3230,7 @@
           "zIndex": 0,
           "type": "perpendicular",
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": "",
           "perpendicular": {
             "startFrom": "from",
@@ -3053,9 +3255,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3162,9 +3362,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3183,9 +3381,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3204,9 +3400,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3219,9 +3413,7 @@
           "zIndex": 0,
           "type": "diagonal",
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": "",
           "diagonal": {
             "startFrom": "to",
@@ -3246,9 +3438,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3267,9 +3457,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3288,9 +3476,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3347,9 +3533,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh13", "#e999c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh13", "#e999c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3368,9 +3552,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3389,9 +3571,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3410,9 +3590,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3431,9 +3609,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3452,9 +3628,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3473,9 +3647,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3494,9 +3666,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh4", "#461d84", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3515,9 +3685,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3536,9 +3704,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3557,9 +3723,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh13", "#e999c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh13", "#e999c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3578,9 +3742,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3599,9 +3761,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3620,9 +3780,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3641,9 +3799,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3662,9 +3818,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3683,9 +3837,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh2", "#82bf25", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3717,33 +3869,14 @@
           "zIndex": 0,
           "type": "diagonal",
           "diagonal": {
-            "startFrom": "from",
+            "startFrom": "to",
             "offsetFrom": 0,
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-          "style": "shmetro-virtual-int",
+          "style": "bjsubway-tram",
           "reconcileId": "",
-          "shmetro-virtual-int": {}
-        }
-      },
-      {
-        "key": "line_491X0O9gc1",
-        "source": "stn_OD8KCGkMSI",
-        "target": "stn_mBD-ksHXbR",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "shmetro-virtual-int",
-          "reconcileId": "",
-          "shmetro-virtual-int": {}
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
         }
       },
       {
@@ -3761,9 +3894,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh8", "#0094d8", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3782,9 +3913,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh13", "#e999c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh13", "#e999c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3803,9 +3932,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3824,9 +3951,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3845,9 +3970,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh16", "#98d1c0", "#000"]
-          },
+          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
           "reconcileId": ""
         }
       },
@@ -3866,9 +3989,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3887,9 +4008,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["shanghai", "sh6", "#d40068", "#fff"]
-          },
+          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3908,9 +4027,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#5e5c64", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#5e5c64", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3929,9 +4046,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3950,9 +4065,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#865e3c", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#865e3c", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3971,9 +4084,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -3992,9 +4103,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4013,9 +4122,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4034,9 +4141,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4055,9 +4160,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4076,9 +4179,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4097,9 +4198,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4118,9 +4217,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4139,9 +4236,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4160,9 +4255,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4181,9 +4274,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4202,9 +4293,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4223,9 +4312,7 @@
             "roundCornerFactor": 18.33
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4244,9 +4331,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4265,9 +4350,7 @@
             "roundCornerFactor": 18.33
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4286,9 +4369,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4307,9 +4388,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4328,9 +4407,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4349,9 +4426,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4370,9 +4445,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4391,9 +4464,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#8ff0a4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4412,9 +4483,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4433,9 +4502,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4454,9 +4521,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#3584e4", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4475,9 +4540,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#f9f06b", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4496,9 +4559,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#f9f06b", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4517,9 +4578,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#f9f06b", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4538,9 +4597,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#f9f06b", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4559,9 +4616,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#ffa348", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4580,9 +4635,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#ffa348", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4601,9 +4654,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#ffa348", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4622,9 +4673,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#ffa348", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4643,9 +4692,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#ffa348", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4664,9 +4711,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4685,9 +4730,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4706,9 +4749,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4727,9 +4768,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4748,9 +4787,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4769,9 +4806,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4790,9 +4825,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4811,9 +4844,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4832,9 +4863,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4853,9 +4882,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4874,9 +4901,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#9141ac", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4895,9 +4920,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#f9f06b", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4916,9 +4939,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#77767b", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#77767b", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4937,9 +4958,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#032580", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4958,9 +4977,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#032580", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -4979,9 +4996,7 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#032580", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
           "reconcileId": ""
         }
       },
@@ -5000,10 +5015,1319 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-          "single-color": {
-            "color": ["other", "other", "#032580", "#fff"]
-          },
+          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
           "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_J59GF4zhOx",
+        "source": "stn_xGU2WpwHQ_",
+        "target": "stn_UwstrLHxdq",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_kzd4-MXWtw",
+        "source": "stn_UwstrLHxdq",
+        "target": "stn_8Yl4pi5_D0",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_HHZYBPOH5G",
+        "source": "stn_xGU2WpwHQ_",
+        "target": "stn_y8l0Kgjl8f",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_o3FCax4s6d",
+        "source": "stn_UwstrLHxdq",
+        "target": "stn_NtxCzcSl__",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_HuU7GwYK8n",
+        "source": "stn_8Yl4pi5_D0",
+        "target": "stn_niR01-5l94",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_eOKKBfNbQe",
+        "source": "stn_niR01-5l94",
+        "target": "stn_XHy6YHqNG_",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_ffRB4OTosx",
+        "source": "stn_y8l0Kgjl8f",
+        "target": "stn_xEqJFR2mPW",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_xG3SfffoPx",
+        "source": "stn_XHy6YHqNG_",
+        "target": "stn_jMaq8iDYI3",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_PtFT3TfaL7",
+        "source": "stn_jMaq8iDYI3",
+        "target": "stn_XqUvAplflb",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_YEs-0tF-ya",
+        "source": "stn_XqUvAplflb",
+        "target": "stn_2AzwDf9Lec",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_DU4Xp1jXwh",
+        "source": "stn_vpsDUMWstB",
+        "target": "stn_mvBab8iRCh",
+        "attributes": {
+          "visible": true,
+          "zIndex": -2,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_yZWP-xGSPG",
+        "source": "stn_mvBab8iRCh",
+        "target": "stn_KbtxARBE8X",
+        "attributes": {
+          "visible": true,
+          "zIndex": -2,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_CH4NttVNpI",
+        "source": "stn_2AzwDf9Lec",
+        "target": "stn_NgXpWVzh3s",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_7bCfxSwWVs",
+        "source": "stn_nXXEEmpQEz",
+        "target": "stn_ZqmYkdX7-O",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_m5LfCl9XD2",
+        "source": "stn_ZqmYkdX7-O",
+        "target": "stn_okETwfbNce",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_0QBeyuOqaa",
+        "source": "stn_okETwfbNce",
+        "target": "stn_ZRGtwuIHpx",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
+        }
+      },
+      {
+        "key": "line_VhaoOm4rl1",
+        "source": "stn_2AzwDf9Lec",
+        "target": "stn_X7o6WO1CCF",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_JKU00KFvO5",
+        "source": "stn_X7o6WO1CCF",
+        "target": "stn_MBqDJgV6lG",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_UVx4IcROD9",
+        "source": "stn_MBqDJgV6lG",
+        "target": "stn_G35LZfzXFR",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_r0asGwYF63",
+        "source": "stn_G35LZfzXFR",
+        "target": "stn_hdiFF1oAsf",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_edNzHcKCKF",
+        "source": "stn_hdiFF1oAsf",
+        "target": "stn_3TVQ25obeE",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_WUBX6YL5Sa",
+        "source": "stn_3TVQ25obeE",
+        "target": "stn_S-_PG10aNI",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_SLqvZzadm5",
+        "source": "stn_S-_PG10aNI",
+        "target": "stn_bAUFe8QuDn",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_NbjJp7T0_N",
+        "source": "stn_nXXEEmpQEz",
+        "target": "stn_AhTrgyDRY5",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_m2NDMDiN9f",
+        "source": "stn_AhTrgyDRY5",
+        "target": "stn_p5HNgJ5T99",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "perpendicular",
+          "perpendicular": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 18.33
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_LLdYAJjVWZ",
+        "source": "stn_p5HNgJ5T99",
+        "target": "stn_MBqDJgV6lG",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_qL2ZTHBnVg",
+        "source": "stn_MBqDJgV6lG",
+        "target": "stn_3L8xaXkI24",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_aqzNEEI4Ip",
+        "source": "stn_3L8xaXkI24",
+        "target": "stn_G35LZfzXFR",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_jZPuvcRRtd",
+        "source": "stn_G35LZfzXFR",
+        "target": "stn_6WPxSHcWbs",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_OMPSv-0ZFQ",
+        "source": "stn_6WPxSHcWbs",
+        "target": "stn_5gU6X4ZNYJ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_dE2ywxmRwR",
+        "source": "stn_5gU6X4ZNYJ",
+        "target": "stn_fPMCOzrPt_",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "perpendicular",
+          "perpendicular": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 18.33
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_vARM1H0WxY",
+        "source": "stn_fPMCOzrPt_",
+        "target": "stn_z30DOvFauU",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_6Zl1z7lm0c",
+        "source": "stn_z30DOvFauU",
+        "target": "stn_8c-DwBbUH0",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_jpceWdAkfV",
+        "source": "stn_8c-DwBbUH0",
+        "target": "stn_aHTl8PHguP",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_5rLkjLfrTc",
+        "source": "stn_aHTl8PHguP",
+        "target": "stn_OD8KCGkMSI",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_uBeT9hADEL",
+        "source": "stn_NtxCzcSl__",
+        "target": "stn_pPl6Dofrc6",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_WXrGiMRsbX",
+        "source": "stn_pPl6Dofrc6",
+        "target": "stn_FBvAADWjFi",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_42cz8Qrn7X",
+        "source": "stn_FBvAADWjFi",
+        "target": "stn_s2pT3MFrBt",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_1LAEIhKRdm",
+        "source": "stn_s2pT3MFrBt",
+        "target": "stn_UwstrLHxdq",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_rfixSM1DP0",
+        "source": "stn_UwstrLHxdq",
+        "target": "stn_lkuFaI7JL3",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_jgBxP0qf45",
+        "source": "stn_lkuFaI7JL3",
+        "target": "stn_8PWxEqABwI",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_0K28CSPPTy",
+        "source": "stn_8PWxEqABwI",
+        "target": "stn_sDeCNnAGRG",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_ZRoeHeXMXk",
+        "source": "stn_sDeCNnAGRG",
+        "target": "stn_Ef-ofr9ZYq",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_jOP4b6Z3q7",
+        "source": "stn_Ef-ofr9ZYq",
+        "target": "stn_DRGBU6t2JQ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_cJBDtVMvKa",
+        "source": "stn_62uOwY9xD5",
+        "target": "stn_pkBBq0DXO1",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_topORt1YiW",
+        "source": "stn_xw_JZee4RD",
+        "target": "stn_mJcUxkZILS",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_zMAPN2Uxvp",
+        "source": "stn_mJcUxkZILS",
+        "target": "stn_k8zKudnMHW",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_IA1o1slKbS",
+        "source": "stn_k8zKudnMHW",
+        "target": "stn_k8zKudnMHW",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_On_C7fbS55",
+        "source": "stn_MBqDJgV6lG",
+        "target": "stn_nMc0iDj2HS",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_RFoYDrWBFA",
+        "source": "stn_nMc0iDj2HS",
+        "target": "stn_vgPcbf4HJV",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_6FYjhQ8es3",
+        "source": "stn_vgPcbf4HJV",
+        "target": "stn_mvBab8iRCh",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_kMYOxqGUk3",
+        "source": "stn_nXXEEmpQEz",
+        "target": "stn_dnSJyOZx59",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_2GdExhrwwX",
+        "source": "stn_dnSJyOZx59",
+        "target": "stn_xi379BO_uQ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_lcxciI23VQ",
+        "source": "stn_xi379BO_uQ",
+        "target": "stn_hNl_2EtiOQ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_hKZFi4WLzA",
+        "source": "stn_hNl_2EtiOQ",
+        "target": "stn_8pREVYfXqQ",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_KkVAIhkLFE",
+        "source": "stn_8pREVYfXqQ",
+        "target": "stn_tuUEhhDO9D",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_w25KVv2aGs",
+        "source": "stn_tuUEhhDO9D",
+        "target": "stn_iqYkeWpw8I",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_q5Ogn_IW3B",
+        "source": "stn_iqYkeWpw8I",
+        "target": "stn_y-cUIeURCV",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
+        }
+      },
+      {
+        "key": "line_izhmTPxEhv",
+        "source": "stn_NtxCzcSl__",
+        "target": "stn_FwuY8pxRCH",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_3XDl6VSgZz",
+        "source": "stn_FwuY8pxRCH",
+        "target": "stn_62uOwY9xD5",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_4uDEwK3Jb4",
+        "source": "stn_OD8KCGkMSI",
+        "target": "stn_pkBBq0DXO1",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_QGBf4LKuVH",
+        "source": "stn_B9y1L7DA2x",
+        "target": "stn_xw_JZee4RD",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_ZI94c_R7pJ",
+        "source": "stn_k8zKudnMHW",
+        "target": "stn_G35LZfzXFR",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_2exyqEXbpQ",
+        "source": "stn_MBqDJgV6lG",
+        "target": "stn_mJcUxkZILS",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
+        }
+      },
+      {
+        "key": "line_bsQuuM-IJE",
+        "source": "stn_xEqJFR2mPW",
+        "target": "stn_8PWxEqABwI",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_S0Lo4qaokb",
+        "source": "stn_8PWxEqABwI",
+        "target": "stn_vpsDUMWstB",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_lqAaQBdcvc",
+        "source": "stn_UwstrLHxdq",
+        "target": "stn_8PWxEqABwI",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_MtWynuG6kH",
+        "source": "stn_8PWxEqABwI",
+        "target": "stn_iqYkeWpw8I",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "to",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "single-color",
+          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
+          "reconcileId": ""
+        }
+      },
+      {
+        "key": "line_odwAQ8k5W9",
+        "source": "stn_OD8KCGkMSI",
+        "target": "stn_mBD-ksHXbR",
+        "attributes": {
+          "visible": true,
+          "zIndex": 0,
+          "type": "diagonal",
+          "diagonal": {
+            "startFrom": "from",
+            "offsetFrom": 0,
+            "offsetTo": 0,
+            "roundCornerFactor": 10
+          },
+          "style": "bjsubway-tram",
+          "reconcileId": "",
+          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
         }
       }
     ]
