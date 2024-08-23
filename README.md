@@ -19,6 +19,10 @@ Let's have fun in building MUR.
 感谢所有在 https://shuiyuan.sjtu.edu.cn/t/topic/295957 上提供想法建议和支持的人。
 THANKS ALL IN https://shuiyuan.sjtu.edu.cn/t/topic/295957 who provides ideas, suggestions and supports.
 
-BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 
-The exported json file is formatted by prettier to make `merge` possible.
+生成的json文件由prettier格式化，以便于合并。
+The exported json file is formatted by prettier to make merge possible.
+
+
+
+BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
