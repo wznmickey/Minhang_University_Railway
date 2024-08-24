@@ -1,5 +1,5 @@
 一个覆盖上海闵行高校的铁路系统。
-A railway system among universities in Minhang, Shanghai. 
+A railway system among universities in Minhang, Shanghai.
 
 只是想象。
 Just imagination.
