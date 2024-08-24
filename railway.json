@@ -1,6 +1,6 @@
 {
-	"svgViewBoxZoom": 97,
-	"svgViewBoxMin": { "x": 702.256210327145, "y": -892.995997009278 },
+	"svgViewBoxZoom": 217,
+	"svgViewBoxMin": { "x": -139.17221256256425, "y": 29.347380371095937 },
 	"graph": {
 		"options": {
 			"type": "directed",
@@ -1059,8 +1059,8 @@
 				"attributes": {
 					"visible": true,
 					"zIndex": 0,
-					"x": 1265,
-					"y": 905,
+					"x": 1990,
+					"y": 935,
 					"type": "shmetro-basic",
 					"shmetro-basic": {
 						"names": ["紫星路", ""],
@@ -1074,26 +1074,11 @@
 				"attributes": {
 					"visible": true,
 					"zIndex": 0,
-					"x": 1315,
-					"y": 955,
+					"x": 2215,
+					"y": 995,
 					"type": "shmetro-basic",
 					"shmetro-basic": {
-						"names": ["紫月路", ""],
-						"nameOffsetX": "right",
-						"nameOffsetY": "top"
-					}
-				}
-			},
-			{
-				"key": "stn_p6Cavv0rL5",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"x": 1415,
-					"y": 990,
-					"type": "shmetro-basic",
-					"shmetro-basic": {
-						"names": ["江川东路", ""],
+						"names": ["紫叶广场", ""],
 						"nameOffsetX": "right",
 						"nameOffsetY": "top"
 					}
@@ -1134,26 +1119,11 @@
 				"attributes": {
 					"visible": true,
 					"zIndex": 0,
-					"x": 1600,
-					"y": 470,
+					"x": 1595,
+					"y": 465,
 					"type": "shmetro-basic",
 					"shmetro-basic": {
 						"names": ["农生学院", ""],
-						"nameOffsetX": "right",
-						"nameOffsetY": "top"
-					}
-				}
-			},
-			{
-				"key": "stn_p01iQfpvir",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"x": 1805,
-					"y": 695,
-					"type": "shmetro-basic",
-					"shmetro-basic": {
-						"names": ["华师大门口", ""],
 						"nameOffsetX": "right",
 						"nameOffsetY": "top"
 					}
@@ -1607,7 +1577,7 @@
 					"visible": true,
 					"zIndex": 0,
 					"x": 1870,
-					"y": 690,
+					"y": 695,
 					"type": "shmetro-int",
 					"shmetro-int": {
 						"names": ["莲花南路门", ""],
@@ -1645,7 +1615,7 @@
 					"shmetro-int": {
 						"names": ["一教/二教", ""],
 						"nameOffsetX": "right",
-						"nameOffsetY": "top",
+						"nameOffsetY": "middle",
 						"rotate": 0,
 						"height": 10,
 						"width": 13
@@ -1686,21 +1656,6 @@
 				}
 			},
 			{
-				"key": "stn_xbZtoePVe4",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"x": 1935,
-					"y": 425,
-					"type": "shmetro-basic",
-					"shmetro-basic": {
-						"names": ["剑川路门", ""],
-						"nameOffsetX": "right",
-						"nameOffsetY": "top"
-					}
-				}
-			},
-			{
 				"key": "stn_UG1KfMv5lq",
 				"attributes": {
 					"visible": true,
@@ -1725,11 +1680,14 @@
 					"zIndex": 0,
 					"x": 1915,
 					"y": 510,
-					"type": "shmetro-basic",
-					"shmetro-basic": {
+					"type": "shmetro-int",
+					"shmetro-int": {
 						"names": ["华师大校医院", ""],
 						"nameOffsetX": "right",
-						"nameOffsetY": "top"
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
 					}
 				}
 			},
@@ -1740,11 +1698,14 @@
 					"zIndex": 0,
 					"x": 1885,
 					"y": 540,
-					"type": "shmetro-basic",
-					"shmetro-basic": {
+					"type": "shmetro-int",
+					"shmetro-int": {
 						"names": ["体育场", ""],
 						"nameOffsetX": "left",
-						"nameOffsetY": "top"
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
 					}
 				}
 			},
@@ -1849,7 +1810,7 @@
 					"shmetro-basic": {
 						"names": ["体育与健康学院", ""],
 						"nameOffsetX": "right",
-						"nameOffsetY": "top"
+						"nameOffsetY": "middle"
 					}
 				}
 			},
@@ -1864,7 +1825,7 @@
 					"shmetro-basic": {
 						"names": ["东体育场", ""],
 						"nameOffsetX": "right",
-						"nameOffsetY": "top"
+						"nameOffsetY": "middle"
 					}
 				}
 			},
@@ -1893,8 +1854,8 @@
 					"type": "shmetro-basic",
 					"shmetro-basic": {
 						"names": ["生物博物馆", ""],
-						"nameOffsetX": "right",
-						"nameOffsetY": "top"
+						"nameOffsetX": "left",
+						"nameOffsetY": "middle"
 					}
 				}
 			},
@@ -1953,8 +1914,8 @@
 					"type": "shmetro-basic",
 					"shmetro-basic": {
 						"names": ["湖心岛", ""],
-						"nameOffsetX": "right",
-						"nameOffsetY": "top"
+						"nameOffsetX": "middle",
+						"nameOffsetY": "bottom"
 					}
 				}
 			},
@@ -1968,7 +1929,7 @@
 					"type": "shmetro-basic",
 					"shmetro-basic": {
 						"names": ["地理博物馆", ""],
-						"nameOffsetX": "right",
+						"nameOffsetX": "middle",
 						"nameOffsetY": "top"
 					}
 				}
@@ -2051,6 +2012,922 @@
 						"rotate": 0,
 						"height": 10,
 						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_FdDUVxdv4p",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 930,
+					"y": -430,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["虹桥路", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_U4HlsGuV4W",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1395,
+					"y": -960,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["长宁东门", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_daEj5rZcdA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1260,
+					"y": -1035,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["北楼体育馆", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_T7VNoL0_YL",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1195,
+					"y": -1065,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["长宁第一食堂", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_RcwSwWCmhR",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1175,
+					"y": -1015,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["三四楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_BcSTsrqC2P",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1160,
+					"y": -945,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["一二楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_pG-0lwO-N4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1090,
+					"y": -990,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["第二食堂", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_9j5Gh8xKeO",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1070,
+					"y": -940,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["五六楼", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_M9QoHvNSQF",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1265,
+					"y": -915,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["长宁主楼", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_RsnjyMvh3u",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1140,
+					"y": -815,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["南楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_flv8DZjf7t",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1110,
+					"y": -895,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["篮球场", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_G4qUpIYu5x",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1205,
+					"y": -810,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["报名大楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_O0yMFX7To1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1175,
+					"y": -750,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["长宁南门", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_gGbZPdzbOc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1330,
+					"y": -1025,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["七八楼", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_Iy1F8SYiIw",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 850,
+					"y": -1035,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["延安路", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_si41C6RjSc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2140,
+					"y": -1205,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["黄埔西门", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_p_Pk2e6qUt",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2055,
+					"y": -1270,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["西三四教", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_fPUdfgotRZ",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1970,
+					"y": -1300,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["小白楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_VuwW16y4rk",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1985,
+					"y": -1235,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["动科部", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_bUaGnwDzqr",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2115,
+					"y": -1150,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["老红楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_nBNXoKVqIF",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2115,
+					"y": -1100,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["黄埔图书馆", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_NBf2sQYNPp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2015,
+					"y": -1135,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["教科楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_HKdoA81JJp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2315,
+					"y": -1375,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["北招待所", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_Q6hy6FNkn4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2350,
+					"y": -1305,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["黄埔篮球场", ""],
+						"nameOffsetX": "middle",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_PrO5LPYS--",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2290,
+					"y": -1155,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["黄埔校医院", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_KhncEQ-FPh",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2345,
+					"y": -1225,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["懿德楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn__GMYJFNUr1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2425,
+					"y": -1335,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["黄埔食堂", ""],
+						"nameOffsetX": "middle",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_mxoAQtaX9c",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2470,
+					"y": -1355,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["东宿舍群", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_XyLnOiC9Nx",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2465,
+					"y": -1265,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["A楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_dWxoBy6vlk",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2425,
+					"y": -1215,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["B楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_0TVLG-V3v9",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2530,
+					"y": -1245,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["E楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_gnoiWUxPm2",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2490,
+					"y": -1190,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["CD楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_yZvo_W_S_B",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2070,
+					"y": -1190,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["足球场", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_2fomC_MPIn",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2220,
+					"y": -1225,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["黄埔东门", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_EyyPcGU3rD",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2265,
+					"y": -1295,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["西宿舍群", ""],
+						"nameOffsetX": "middle",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_jpyF__FXcL",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1885,
+					"y": -1145,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["瑞金科教大楼", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_zw-pIf3_lK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1710,
+					"y": -1110,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["瑞金西", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_SjT-bBiBWK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1765,
+					"y": -1255,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["瑞金北", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_XaRDTI4MfV",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1840,
+					"y": -1055,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["瑞金南", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_NyqE_VI2S4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1825,
+					"y": -1365,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["实验医学中心", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_u9W8AqJHLN",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2450,
+					"y": -1295,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["黄埔体育馆", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_eSbZgFLZ1F",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1595,
+					"y": 505,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["生科学院", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_yY98Kxol1G",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2595,
+					"y": -1560,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["新天地", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_AUwrKvxNo6",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2750,
+					"y": -1035,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["马当路", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_aBasZPKvs7",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1840,
+					"y": -940,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["打浦桥", "Stn"],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_r5YR7Q2ZtY",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2265,
+					"y": 860,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["江川东路", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_0aksUP4XZm",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2335,
+					"y": 1045,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["兰香湖", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_Y0ssc7dH3d",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2130,
+					"y": 425,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["剑川路门", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_gyo40RCkRB",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2130,
+					"y": 370,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["宝龙城", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_9nze7O--z2",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2400,
+					"y": 455,
+					"type": "shmetro-int",
+					"shmetro-int": {
+						"names": ["放鹤路", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top",
+						"rotate": 0,
+						"height": 10,
+						"width": 13
+					}
+				}
+			},
+			{
+				"key": "stn_t-HuntRkeg",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2180,
+					"y": 585,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["夏雨厅", ""],
+						"nameOffsetX": "middle",
+						"nameOffsetY": "bottom"
+					}
+				}
+			},
+			{
+				"key": "stn_dj4nmYLPpq",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2400,
+					"y": 720,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["紫龙路", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_qk7I0wn0Qw",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2290,
+					"y": 560,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["华师研究生公寓", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_P5OzXSC2y5",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2225,
+					"y": 585,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["华师东门", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "bottom"
+					}
+				}
+			},
+			{
+				"key": "stn_3jZEe_OkzK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 2255,
+					"y": 720,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["东海职业学院", ""],
+						"nameOffsetX": "right",
+						"nameOffsetY": "top"
+					}
+				}
+			},
+			{
+				"key": "stn_TnBrFowBRZ",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1680,
+					"y": 940,
+					"type": "shmetro-basic",
+					"shmetro-basic": {
+						"names": ["信息数码港", ""],
+						"nameOffsetX": "middle",
+						"nameOffsetY": "bottom"
+					}
+				}
+			},
+			{
+				"key": "misc_node_OqScgn1oLj",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"x": 1840,
+					"y": 450,
+					"type": "jr-east-line-badge",
+					"jr-east-line-badge": {
+						"names": ["协商中", ""],
+						"color": ["tokyo", "jy", "#9ACD32", "#000"],
+						"num": 0,
+						"crosshatchPatternFill": false
 					}
 				}
 			}
@@ -3598,27 +4475,6 @@
 				}
 			},
 			{
-				"key": "line_QZCI3fOfxm",
-				"source": "stn_2hs1HATV_e",
-				"target": "stn_MWjBw9qaS-",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"type": "diagonal",
-					"diagonal": {
-						"startFrom": "from",
-						"offsetFrom": 0,
-						"offsetTo": 0,
-						"roundCornerFactor": 10
-					},
-					"style": "single-color",
-					"single-color": {
-						"color": ["shanghai", "sh16", "#98d1c0", "#000"]
-					},
-					"reconcileId": ""
-				}
-			},
-			{
 				"key": "line_PEmYw0YBeD",
 				"source": "stn_2hs1HATV_e",
 				"target": "stn_IcyIS0LQJN",
@@ -3632,32 +4488,9 @@
 						"offsetTo": 0,
 						"roundCornerFactor": 10
 					},
-					"style": "single-color",
-					"single-color": {
-						"color": ["shanghai", "sh16", "#98d1c0", "#000"]
-					},
-					"reconcileId": ""
-				}
-			},
-			{
-				"key": "line_pyb3rW6rkc",
-				"source": "stn_IcyIS0LQJN",
-				"target": "stn_p6Cavv0rL5",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"type": "diagonal",
-					"diagonal": {
-						"startFrom": "from",
-						"offsetFrom": 0,
-						"offsetTo": 0,
-						"roundCornerFactor": 10
-					},
-					"style": "single-color",
-					"single-color": {
-						"color": ["shanghai", "sh16", "#98d1c0", "#000"]
-					},
-					"reconcileId": ""
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
 				}
 			},
 			{
@@ -3685,27 +4518,6 @@
 				"key": "line_Nxdrq4XAN0",
 				"source": "stn__fGRZOdenr",
 				"target": "stn_aXVlRaUYfs",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"type": "diagonal",
-					"diagonal": {
-						"startFrom": "from",
-						"offsetFrom": 0,
-						"offsetTo": 0,
-						"roundCornerFactor": 10
-					},
-					"style": "single-color",
-					"single-color": {
-						"color": ["shanghai", "sh16", "#98d1c0", "#000"]
-					},
-					"reconcileId": ""
-				}
-			},
-			{
-				"key": "line_XxkXNp1FFX",
-				"source": "stn_aXVlRaUYfs",
-				"target": "stn_zqAVVwFuIu",
 				"attributes": {
 					"visible": true,
 					"zIndex": 0,
@@ -4218,27 +5030,6 @@
 				}
 			},
 			{
-				"key": "line_Tq8nVdz8Zo",
-				"source": "stn_HRZISrH3Pw",
-				"target": "stn_p01iQfpvir",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"type": "diagonal",
-					"diagonal": {
-						"startFrom": "from",
-						"offsetFrom": 0,
-						"offsetTo": 0,
-						"roundCornerFactor": 10
-					},
-					"style": "single-color",
-					"single-color": {
-						"color": ["shanghai", "sh13", "#e999c0", "#000"]
-					},
-					"reconcileId": ""
-				}
-			},
-			{
 				"key": "line_k0H1Z6EJOm",
 				"source": "stn_r-lkeAN1X2",
 				"target": "stn_mBD-ksHXbR",
@@ -4339,27 +5130,6 @@
 					"style": "single-color",
 					"single-color": {
 						"color": ["shanghai", "sh6", "#d40068", "#fff"]
-					},
-					"reconcileId": ""
-				}
-			},
-			{
-				"key": "line_0KccQNzrpy",
-				"source": "stn_p01iQfpvir",
-				"target": "misc_node_Pugs_jgiXf",
-				"attributes": {
-					"visible": true,
-					"zIndex": 0,
-					"type": "diagonal",
-					"diagonal": {
-						"startFrom": "from",
-						"offsetFrom": 0,
-						"offsetTo": 0,
-						"roundCornerFactor": 10
-					},
-					"style": "single-color",
-					"single-color": {
-						"color": ["other", "other", "#5e5c64", "#fff"]
 					},
 					"reconcileId": ""
 				}
@@ -5454,6 +6224,2530 @@
 						"color": ["other", "other", "#032580", "#fff"]
 					},
 					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_LrWqePlZrv",
+				"source": "stn_UAWoL0d9u0",
+				"target": "stn_FdDUVxdv4p",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9141ac", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_jWIlqt0glu",
+				"source": "stn_vz9iEZJJAv",
+				"target": "stn_orG133aU0U",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "dual-color",
+					"reconcileId": "",
+					"dual-color": {
+						"colorA": ["shanghai", "maglevB", "#F5A74E", "#fff"],
+						"colorB": ["shanghai", "maglevA", "#008B9A", "#fff"]
+					}
+				}
+			},
+			{
+				"key": "line_tLmkXk5F61",
+				"source": "stn_U4HlsGuV4W",
+				"target": "stn_orG133aU0U",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "dual-color",
+					"reconcileId": "",
+					"dual-color": {
+						"colorA": ["shanghai", "maglevA", "#008B9A", "#fff"],
+						"colorB": ["shanghai", "maglevB", "#F5A74E", "#fff"]
+					}
+				}
+			},
+			{
+				"key": "line_rsTW53sVHn",
+				"source": "stn_T7VNoL0_YL",
+				"target": "stn_T7VNoL0_YL",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#980000", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_lkk_E78e1O",
+				"source": "stn_T7VNoL0_YL",
+				"target": "stn_daEj5rZcdA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#980000", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_sAWKMKNzO1",
+				"source": "stn_daEj5rZcdA",
+				"target": "stn_M9QoHvNSQF",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#980000", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_ahG-w78H6w",
+				"source": "stn_M9QoHvNSQF",
+				"target": "stn_G4qUpIYu5x",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#980000", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_d9lU3r5De9",
+				"source": "stn_RcwSwWCmhR",
+				"target": "stn_pG-0lwO-N4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_EWTi2L9nwR",
+				"source": "stn_9j5Gh8xKeO",
+				"target": "stn_flv8DZjf7t",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_2X7_GughMj",
+				"source": "stn_RsnjyMvh3u",
+				"target": "stn_O0yMFX7To1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_U8PEyg_Qi4",
+				"source": "stn_pG-0lwO-N4",
+				"target": "stn_BcSTsrqC2P",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_ZwYgKmK5Dn",
+				"source": "stn_M9QoHvNSQF",
+				"target": "stn_U4HlsGuV4W",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_m0SiGwQ4tc",
+				"source": "stn_RcwSwWCmhR",
+				"target": "stn_daEj5rZcdA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_TNBEn4mNJL",
+				"source": "stn_daEj5rZcdA",
+				"target": "stn_gGbZPdzbOc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_M3bsYlTw2d",
+				"source": "stn_U4HlsGuV4W",
+				"target": "stn_Iy1F8SYiIw",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "dual-color",
+					"reconcileId": "",
+					"dual-color": {
+						"colorA": ["shanghai", "maglevB", "#F5A74E", "#fff"],
+						"colorB": ["shanghai", "maglevA", "#008B9A", "#fff"]
+					}
+				}
+			},
+			{
+				"key": "line_Rvw4H723fm",
+				"source": "stn_NyqE_VI2S4",
+				"target": "stn_fPUdfgotRZ",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_RyiSPhTbht",
+				"source": "stn_fPUdfgotRZ",
+				"target": "stn_p_Pk2e6qUt",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_gCpIFZkdZ8",
+				"source": "stn_p_Pk2e6qUt",
+				"target": "stn_si41C6RjSc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_A1SJpzaCuy",
+				"source": "stn_si41C6RjSc",
+				"target": "stn_2fomC_MPIn",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_QNvgxusvFf",
+				"source": "stn_2fomC_MPIn",
+				"target": "stn_EyyPcGU3rD",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_wuBzUsDJEp",
+				"source": "stn_Q6hy6FNkn4",
+				"target": "stn__GMYJFNUr1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_928f2_ArwT",
+				"source": "stn_XyLnOiC9Nx",
+				"target": "stn_0TVLG-V3v9",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "perpendicular",
+					"perpendicular": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 18.33
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#8577ee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_XHodOXZ18S",
+				"source": "stn_gnoiWUxPm2",
+				"target": "stn_0TVLG-V3v9",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "perpendicular",
+					"perpendicular": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 18.33
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#8577ee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_lO7p0nUTqI",
+				"source": "stn_gnoiWUxPm2",
+				"target": "stn_dWxoBy6vlk",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "perpendicular",
+					"perpendicular": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 18.33
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#8577ee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_FrFgQt7o9T",
+				"source": "stn_XyLnOiC9Nx",
+				"target": "stn_dWxoBy6vlk",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "perpendicular",
+					"perpendicular": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 18.33
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#8577ee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_hN2Bydiv-r",
+				"source": "stn_HKdoA81JJp",
+				"target": "stn__GMYJFNUr1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#c0c0c0", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_KVodOlh1l3",
+				"source": "stn_u9W8AqJHLN",
+				"target": "stn_XyLnOiC9Nx",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#c0c0c0", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_2h7jLFWVCD",
+				"source": "stn_jpyF__FXcL",
+				"target": "stn_XaRDTI4MfV",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_XZVIr5kPvq",
+				"source": "stn_SjT-bBiBWK",
+				"target": "stn_jpyF__FXcL",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_K5tLTOGglm",
+				"source": "stn_VuwW16y4rk",
+				"target": "stn_NBf2sQYNPp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_i_dFv5D1cs",
+				"source": "stn_NBf2sQYNPp",
+				"target": "stn_nBNXoKVqIF",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_dxht9wnZOQ",
+				"source": "stn_p_Pk2e6qUt",
+				"target": "stn_yZvo_W_S_B",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#800057", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_VHw6AE2aC5",
+				"source": "stn_yZvo_W_S_B",
+				"target": "stn_bUaGnwDzqr",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#800057", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_4uv9OEdVcI",
+				"source": "stn_bUaGnwDzqr",
+				"target": "stn_nBNXoKVqIF",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#800057", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_1aNkS5kEuL",
+				"source": "stn_HKdoA81JJp",
+				"target": "stn_Q6hy6FNkn4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#037703", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_77YQjuXh-_",
+				"source": "stn_Q6hy6FNkn4",
+				"target": "stn_KhncEQ-FPh",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#037703", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_wBdVTp-Wrq",
+				"source": "stn_dWxoBy6vlk",
+				"target": "stn_KhncEQ-FPh",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#037703", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_7jCURjKzx7",
+				"source": "stn_NBf2sQYNPp",
+				"target": "stn_yZvo_W_S_B",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#2c4b7d", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_4ANDq1Bz1c",
+				"source": "stn_PrO5LPYS--",
+				"target": "stn_si41C6RjSc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#2c4b7d", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_tptmG_2AK7",
+				"source": "stn_orG133aU0U",
+				"target": "stn_zw-pIf3_lK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "dual-color",
+					"reconcileId": "",
+					"dual-color": {
+						"colorA": ["shanghai", "maglevA", "#008B9A", "#fff"],
+						"colorB": ["shanghai", "maglevB", "#F5A74E", "#fff"]
+					}
+				}
+			},
+			{
+				"key": "line_n-oLR41QIX",
+				"source": "stn_zw-pIf3_lK",
+				"target": "stn_si41C6RjSc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "dual-color",
+					"reconcileId": "",
+					"dual-color": {
+						"colorA": ["shanghai", "maglevA", "#008B9A", "#fff"],
+						"colorB": ["shanghai", "maglevB", "#F5A74E", "#fff"]
+					}
+				}
+			},
+			{
+				"key": "line_MfpazOu95j",
+				"source": "stn_eSbZgFLZ1F",
+				"target": "stn_zqAVVwFuIu",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["shanghai", "sh16", "#98d1c0", "#000"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_EhpA62xBMg",
+				"source": "stn_aXVlRaUYfs",
+				"target": "stn_eSbZgFLZ1F",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["shanghai", "sh16", "#98d1c0", "#000"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_OseFEVOhHV",
+				"source": "stn_AUwrKvxNo6",
+				"target": "stn_gnoiWUxPm2",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#a569a5", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_vDsBkSJAXt",
+				"source": "stn_XaRDTI4MfV",
+				"target": "stn_aBasZPKvs7",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_HufWhHcHc-",
+				"source": "stn_r5YR7Q2ZtY",
+				"target": "stn_poOICSnFzd",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "gzmtr-virtual-int",
+					"reconcileId": "",
+					"gzmtr-virtual-int": {}
+				}
+			},
+			{
+				"key": "line_MCSvIYXXfU",
+				"source": "stn_0aksUP4XZm",
+				"target": "stn_IcyIS0LQJN",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_efWiVimebO",
+				"source": "stn_HRZISrH3Pw",
+				"target": "stn_0P4MBT9U3f",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["shanghai", "sh10", "#c6afd4", "#000"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line__PQD9Ly7M-",
+				"source": "stn_UG1KfMv5lq",
+				"target": "stn_RfdmioWVXR",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_2vD1s_ZMsN",
+				"source": "stn_RfdmioWVXR",
+				"target": "stn_d9uEmBJtI-",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_dsd50RqAf-",
+				"source": "stn_a4_f1SZvPd",
+				"target": "stn_d9uEmBJtI-",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_7aNiuGWbpl",
+				"source": "stn_a4_f1SZvPd",
+				"target": "stn_0P4MBT9U3f",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_p-RvUz7r_Z",
+				"source": "stn_0P4MBT9U3f",
+				"target": "stn_XGx_tDQrNd",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_cOmY9l4xzV",
+				"source": "stn_XGx_tDQrNd",
+				"target": "stn_njoQREmh1b",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_4kljZJH2OQ",
+				"source": "stn_njoQREmh1b",
+				"target": "stn_j8bFT2ZjAe",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_DrLYWiNNWe",
+				"source": "stn_j8bFT2ZjAe",
+				"target": "stn_mFrsEItvSg",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_qtN77O9hoW",
+				"source": "stn_mFrsEItvSg",
+				"target": "stn_fg3kVR7TYd",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_XwGzWOkMI1",
+				"source": "stn_d9uEmBJtI-",
+				"target": "stn_sCKAFeTner",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_AxBaBuGn6H",
+				"source": "stn_sCKAFeTner",
+				"target": "stn_UTAz42qJyc",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_fYg-ZncjTG",
+				"source": "stn_UTAz42qJyc",
+				"target": "stn_1J3PUK9vdp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_q3EEznJjPp",
+				"source": "stn_f3AkKj2bPs",
+				"target": "stn_1J3PUK9vdp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_pruk1zUxk1",
+				"source": "stn_f3AkKj2bPs",
+				"target": "stn_Ux53I2Lu0U",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_d3ocfDX2dT",
+				"source": "stn_Ux53I2Lu0U",
+				"target": "stn_lrhhaLY5GE",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_FGZr-KxkPa",
+				"source": "stn_lrhhaLY5GE",
+				"target": "stn_e6R9ttIyJG",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_syNVAmJ4qN",
+				"source": "stn_fg3kVR7TYd",
+				"target": "stn_e6R9ttIyJG",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_NBGU8xByJM",
+				"source": "stn_0P4MBT9U3f",
+				"target": "stn_Tq5vSi7W-K",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_KHWo8xAD4p",
+				"source": "stn_Tq5vSi7W-K",
+				"target": "stn_f3AkKj2bPs",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_s4QXqgI30f",
+				"source": "stn_gDFkrhynKb",
+				"target": "stn_f3AkKj2bPs",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_mTN2dcJREX",
+				"source": "stn_gDFkrhynKb",
+				"target": "stn_Dnq9K49cqA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_JvOyI0kIV6",
+				"source": "stn_Dnq9K49cqA",
+				"target": "stn_K7o3WkINdn",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_0scoutxGzK",
+				"source": "stn_sCKAFeTner",
+				"target": "stn_RfdmioWVXR",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_pB6iROJ5TC",
+				"source": "stn_sCKAFeTner",
+				"target": "stn_d6k8uyQlmf",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_AdQUwGU-Ma",
+				"source": "stn_d6k8uyQlmf",
+				"target": "stn_XOsK1mTPB4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_Nox7Z47PmP",
+				"source": "stn_XOsK1mTPB4",
+				"target": "stn_IGZ3DSQpzb",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_y7sbOxJRpI",
+				"source": "stn_IGZ3DSQpzb",
+				"target": "stn_j8bFT2ZjAe",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_TBXFZX1ixF",
+				"source": "stn_UG1KfMv5lq",
+				"target": "stn_aOxdcLPieA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff9900", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_nM72AeVRmb",
+				"source": "stn_aOxdcLPieA",
+				"target": "stn_K7o3WkINdn",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff9900", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_IFtPrx8TE6",
+				"source": "stn_2uRIeXGO-S",
+				"target": "stn_L8k8xCSHWy",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff9900", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_hZGR1-nC5K",
+				"source": "stn_L8k8xCSHWy",
+				"target": "stn_f3AkKj2bPs",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff9900", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_IGsAjRZc4J",
+				"source": "stn_K7o3WkINdn",
+				"target": "stn_Y0ssc7dH3d",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_7X4kB0yA02",
+				"source": "stn_gyo40RCkRB",
+				"target": "stn_Y0ssc7dH3d",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#862357", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_3ItfuvL1JX",
+				"source": "stn_d6k8uyQlmf",
+				"target": "stn_1J3PUK9vdp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#99ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_ikFIOnw8kq",
+				"source": "stn_gDFkrhynKb",
+				"target": "stn_1J3PUK9vdp",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#99ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_FDoW3VoyhI",
+				"source": "stn_gDFkrhynKb",
+				"target": "stn_t-HuntRkeg",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#99ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_taFslnU4GR",
+				"source": "stn_dj4nmYLPpq",
+				"target": "stn_r5YR7Q2ZtY",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "gzmtr-virtual-int",
+					"reconcileId": "",
+					"gzmtr-virtual-int": {}
+				}
+			},
+			{
+				"key": "line_DQY3inkQvs",
+				"source": "stn_9nze7O--z2",
+				"target": "stn_dj4nmYLPpq",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "gzmtr-virtual-int",
+					"reconcileId": "",
+					"gzmtr-virtual-int": {}
+				}
+			},
+			{
+				"key": "line_CBxAzDc3r4",
+				"source": "stn_t-HuntRkeg",
+				"target": "stn_P5OzXSC2y5",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#99ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_Es11vMYVwO",
+				"source": "stn_qk7I0wn0Qw",
+				"target": "stn_P5OzXSC2y5",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#99ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_zOBiZXwMSK",
+				"source": "stn_2hs1HATV_e",
+				"target": "stn_fg3kVR7TYd",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#9c4f4f", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_AcBj684ysA",
+				"source": "stn_9nze7O--z2",
+				"target": "stn_k4H-EKvcsC",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_BmtBU44fnZ",
+				"source": "stn_Y0ssc7dH3d",
+				"target": "stn_k4H-EKvcsC",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_Yz_vCMUTnY",
+				"source": "stn_Y0ssc7dH3d",
+				"target": "stn_aOxdcLPieA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_9HpzmNa5o7",
+				"source": "stn_UTAz42qJyc",
+				"target": "stn_aOxdcLPieA",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_GvCUQjmszz",
+				"source": "stn_UTAz42qJyc",
+				"target": "stn_Tq5vSi7W-K",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_DNnfySxDWx",
+				"source": "stn_Ux53I2Lu0U",
+				"target": "stn_Tq5vSi7W-K",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_w9P-eCQ1DZ",
+				"source": "stn_Ux53I2Lu0U",
+				"target": "stn_3jZEe_OkzK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_zdDsWn7ZXg",
+				"source": "stn_3jZEe_OkzK",
+				"target": "stn_dj4nmYLPpq",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#f5f57a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_AajSuAZ55u",
+				"source": "stn_fg3kVR7TYd",
+				"target": "stn_r5YR7Q2ZtY",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_UDE-UF85Tl",
+				"source": "stn_VuwW16y4rk",
+				"target": "stn_fPUdfgotRZ",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffee", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_gxLlbfMuHv",
+				"source": "stn_NBf2sQYNPp",
+				"target": "stn_jpyF__FXcL",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#2c4b7d", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_yHWkqc34uR",
+				"source": "stn_si41C6RjSc",
+				"target": "stn_yZvo_W_S_B",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#2c4b7d", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_V0LNE6a3Yc",
+				"source": "stn_KhncEQ-FPh",
+				"target": "stn_PrO5LPYS--",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#2c4b7d", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_PXPuO933CO",
+				"source": "stn_mxoAQtaX9c",
+				"target": "stn__GMYJFNUr1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_HfA1ZwTDLf",
+				"source": "stn_Q6hy6FNkn4",
+				"target": "stn_EyyPcGU3rD",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_0m_C7UNkGP",
+				"source": "stn_yY98Kxol1G",
+				"target": "stn_mxoAQtaX9c",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_DKTCKAMs5V",
+				"source": "stn_u9W8AqJHLN",
+				"target": "stn__GMYJFNUr1",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#c0c0c0", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_3kFiloD0nT",
+				"source": "stn_9j5Gh8xKeO",
+				"target": "stn_pG-0lwO-N4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_lpFOz5LBLB",
+				"source": "stn_RsnjyMvh3u",
+				"target": "stn_flv8DZjf7t",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_VXDGFrXC1y",
+				"source": "stn_O0yMFX7To1",
+				"target": "stn_G4qUpIYu5x",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#980000", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_YozFfZk7tA",
+				"source": "stn_M9QoHvNSQF",
+				"target": "stn_BcSTsrqC2P",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#00ffff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_8SwFa8F4Kq",
+				"source": "stn_zw-pIf3_lK",
+				"target": "stn_SjT-bBiBWK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_Emply3AqWb",
+				"source": "stn_XaRDTI4MfV",
+				"target": "stn_zw-pIf3_lK",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_686Tn48fLZ",
+				"source": "stn_SjT-bBiBWK",
+				"target": "stn_NyqE_VI2S4",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff00ff", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_hEo2Mziek5",
+				"source": "stn_d6k8uyQlmf",
+				"target": "stn_a4_f1SZvPd",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#99ff00", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_oN0UsXdq4o",
+				"source": "stn_2uRIeXGO-S",
+				"target": "stn_K7o3WkINdn",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#ff9900", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_c82_pjyG8y",
+				"source": "stn_TnBrFowBRZ",
+				"target": "stn_MWjBw9qaS-",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_bTA-bYQSCi",
+				"source": "stn_TnBrFowBRZ",
+				"target": "stn_2hs1HATV_e",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "china-railway",
+					"reconcileId": "",
+					"china-railway": {}
+				}
+			},
+			{
+				"key": "line_zmAesYa4K0",
+				"source": "stn_poOICSnFzd",
+				"target": "stn_TnBrFowBRZ",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["shanghai", "sh2", "#82bf25", "#000"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_Adc6RuuS1Y",
+				"source": "stn_UG1KfMv5lq",
+				"target": "stn_Vf0QvfqBiN",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "single-color",
+					"single-color": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					},
+					"reconcileId": ""
+				}
+			},
+			{
+				"key": "line_bhXANzxoKz",
+				"source": "stn_gIBq2qo7fw",
+				"target": "stn_UG1KfMv5lq",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "mrt-under-constr",
+					"reconcileId": "",
+					"mrt-under-constr": {
+						"color": ["other", "other", "#29c78a", "#fff"]
+					}
+				}
+			},
+			{
+				"key": "line_ccN0ZFzfiX",
+				"source": "stn_Iy1F8SYiIw",
+				"target": "stn_FdDUVxdv4p",
+				"attributes": {
+					"visible": true,
+					"zIndex": 0,
+					"type": "diagonal",
+					"diagonal": {
+						"startFrom": "from",
+						"offsetFrom": 0,
+						"offsetTo": 0,
+						"roundCornerFactor": 10
+					},
+					"style": "bjsubway-dotted",
+					"reconcileId": "",
+					"bjsubway-dotted": {
+						"color": ["other", "other", "#ffff00", "#fff"]
+					}
 				}
 			}
 		]
