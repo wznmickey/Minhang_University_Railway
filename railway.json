@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "svgViewBoxZoom": 187,
   "svgViewBoxMin": { "x": 491.9796815109257, "y": -1653.1927283477787 },
   "graph": {
@@ -8,12 +7,6 @@
       "multi": true,
       "allowSelfLoops": true
     },
-=======
-  "svgViewBoxZoom": 107,
-  "svgViewBoxMin": { "x": 539.936210327143, "y": 70.24400299072249 },
-  "graph": {
-    "options": { "type": "directed", "multi": true, "allowSelfLoops": true },
->>>>>>> origin/main
     "attributes": {},
     "nodes": [
       {
@@ -39,13 +32,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1045,
           "y": 575,
-=======
-          "x": 1040,
-          "y": 505,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["霍英东", ""],
@@ -59,13 +47,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1095,
           "y": 695,
-=======
-          "x": 1105,
-          "y": 690,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["玉兰院", ""],
@@ -79,13 +62,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1085,
           "y": 755,
-=======
-          "x": 1090,
-          "y": 750,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["下院", ""],
@@ -102,21 +80,12 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 935,
           "y": 845,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["胡法光", ""],
             "nameOffsetX": "middle",
-=======
-          "x": 955,
-          "y": 795,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["胡法光", ""],
-            "nameOffsetX": "left",
->>>>>>> origin/main
             "nameOffsetY": "bottom"
           }
         }
@@ -144,11 +113,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 975,
-=======
-          "x": 915,
->>>>>>> origin/main
           "y": 480,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -178,11 +143,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1045,
-=======
-          "x": 1040,
->>>>>>> origin/main
           "y": 845,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -198,11 +159,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1085,
-<<<<<<< HEAD
           "y": 795,
-=======
-          "y": 805,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["上院", ""],
@@ -220,17 +177,10 @@
           "visible": true,
           "zIndex": 0,
           "x": 1170,
-<<<<<<< HEAD
           "y": 755,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["南体", ""],
-=======
-          "y": 765,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["南体馆", ""],
->>>>>>> origin/main
             "nameOffsetX": "middle",
             "nameOffsetY": "top",
             "rotate": 0,
@@ -244,11 +194,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1260,
-=======
-          "x": 1265,
->>>>>>> origin/main
           "y": 750,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -264,11 +210,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1280,
-<<<<<<< HEAD
           "y": 700,
-=======
-          "y": 710,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["东下院", ""],
@@ -283,11 +225,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1320,
-<<<<<<< HEAD
           "y": 660,
-=======
-          "y": 655,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["图书信息楼", ""],
@@ -304,13 +242,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1300,
           "y": 615,
-=======
-          "x": 1310,
-          "y": 600,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["植物园", ""],
@@ -328,11 +261,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1425,
-<<<<<<< HEAD
           "y": 530,
-=======
-          "y": 470,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["智慧能源", ""],
@@ -401,21 +330,12 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1095,
           "y": 770,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["中院", ""],
             "nameOffsetX": "right",
-=======
-          "x": 1105,
-          "y": 780,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["中院", ""],
-            "nameOffsetX": "left",
->>>>>>> origin/main
             "nameOffsetY": "middle",
             "rotate": 0,
             "height": 10,
@@ -428,7 +348,6 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1125,
           "y": 850,
           "type": "shmetro-basic",
@@ -436,15 +355,6 @@
             "names": ["校医院", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-          "x": 1150,
-          "y": 855,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["校医院", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
->>>>>>> origin/main
           }
         }
       },
@@ -453,7 +363,6 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1120,
           "y": 735,
           "type": "shmetro-basic",
@@ -461,18 +370,6 @@
             "names": ["一餐", ""],
             "nameOffsetX": "middle",
             "nameOffsetY": "top"
-=======
-          "x": 1130,
-          "y": 730,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["一餐", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "top",
-            "rotate": 0,
-            "height": 10,
-            "width": 13
->>>>>>> origin/main
           }
         }
       },
@@ -481,19 +378,11 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1230,
           "y": 705,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["新学服", ""],
-=======
-          "x": 1240,
-          "y": 720,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["致远学院", ""],
->>>>>>> origin/main
             "nameOffsetX": "middle",
             "nameOffsetY": "bottom",
             "rotate": 0,
@@ -507,13 +396,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1160,
           "y": 650,
-=======
-          "x": 1165,
-          "y": 660,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["北篮", ""],
@@ -531,11 +415,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1300,
-<<<<<<< HEAD
           "y": 680,
-=======
-          "y": 690,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["陈瑞球楼", ""],
@@ -553,11 +433,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1390,
-<<<<<<< HEAD
           "y": 700,
-=======
-          "y": 680,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["电信学院", ""],
@@ -677,11 +553,7 @@
           "y": 530,
           "type": "shmetro-basic",
           "shmetro-basic": {
-<<<<<<< HEAD
             "names": ["转换医学楼", ""],
-=======
-            "names": ["转化医学楼", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "middle"
           }
@@ -711,11 +583,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 1285,
-<<<<<<< HEAD
           "y": 750,
-=======
-          "y": 745,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["东中院", ""],
@@ -732,13 +600,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1220,
           "y": 780,
-=======
-          "x": 1235,
-          "y": 795,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["棒垒球场", ""],
@@ -752,22 +615,13 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1060,
           "y": 755,
-=======
-          "x": 1055,
-          "y": 735,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["包玉刚图书馆", ""],
             "nameOffsetX": "middle",
-<<<<<<< HEAD
             "nameOffsetY": "top"
-=======
-            "nameOffsetY": "bottom"
->>>>>>> origin/main
           }
         }
       },
@@ -776,21 +630,12 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1030,
           "y": 745,
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["材料学院", ""],
             "nameOffsetX": "left",
-=======
-          "x": 1010,
-          "y": 715,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["材料学院", ""],
-            "nameOffsetX": "right",
->>>>>>> origin/main
             "nameOffsetY": "middle",
             "rotate": 0,
             "height": 10,
@@ -803,13 +648,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 985,
           "y": 755,
-=======
-          "x": 970,
-          "y": 740,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["致院游泳馆", ""],
@@ -823,11 +663,7 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1030,
-=======
-          "x": 1020,
->>>>>>> origin/main
           "y": 620,
           "type": "shmetro-basic",
           "shmetro-basic": {
@@ -842,7 +678,6 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1125,
           "y": 555,
           "type": "shmetro-basic",
@@ -850,15 +685,6 @@
             "names": ["西区学生宿舍", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-          "x": 1145,
-          "y": 575,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西三宿东", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
@@ -868,21 +694,12 @@
           "visible": true,
           "zIndex": 0,
           "x": 1250,
-<<<<<<< HEAD
           "y": 555,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["三餐", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-          "y": 575,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["三餐", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
@@ -891,13 +708,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1060,
           "y": 610,
-=======
-          "x": 1050,
-          "y": 605,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["四餐", ""],
@@ -911,22 +723,13 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1260,
-=======
-          "x": 1280,
->>>>>>> origin/main
           "y": 645,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["逸夫科技楼", ""],
-<<<<<<< HEAD
             "nameOffsetX": "middle",
             "nameOffsetY": "top"
-=======
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
@@ -935,13 +738,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1260,
           "y": 810,
-=======
-          "x": 1290,
-          "y": 815,
->>>>>>> origin/main
           "type": "shmetro-int",
           "shmetro-int": {
             "names": ["东上院　", ""],
@@ -976,7 +774,6 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1125,
           "y": 610,
           "type": "shmetro-basic",
@@ -984,18 +781,6 @@
             "names": ["环境学院", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-          "x": 1145,
-          "y": 610,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["环境学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle",
-            "rotate": 0,
-            "height": 10,
-            "width": 13
->>>>>>> origin/main
           }
         }
       },
@@ -1004,13 +789,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1420,
           "y": 750,
-=======
-          "x": 1415,
-          "y": 755,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["五餐", ""],
@@ -1057,13 +837,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 890,
           "y": 755,
-=======
-          "x": 840,
-          "y": 740,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["闵行幼儿园", ""],
@@ -1077,13 +852,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 890,
           "y": 810,
-=======
-          "x": 870,
-          "y": 795,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["交大新村", ""],
@@ -1257,11 +1027,7 @@
           "visible": true,
           "zIndex": 0,
           "x": 925,
-<<<<<<< HEAD
           "y": 610,
-=======
-          "y": 605,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["沧源科技园", ""],
@@ -1293,17 +1059,10 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1990,
           "y": 935,
           "type": "shmetro-osysi",
           "shmetro-osysi": {
-=======
-          "x": 1265,
-          "y": 905,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
->>>>>>> origin/main
             "names": ["紫星路", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
@@ -1315,34 +1074,11 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 2215,
           "y": 995,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["紫叶广场", ""],
-=======
-          "x": 1315,
-          "y": 955,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["紫月路", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_p6Cavv0rL5",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1415,
-          "y": 990,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["江川东路", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "top"
           }
@@ -1383,13 +1119,8 @@
         "attributes": {
           "visible": true,
           "zIndex": 0,
-<<<<<<< HEAD
           "x": 1595,
           "y": 465,
-=======
-          "x": 1600,
-          "y": 470,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["农生学院", ""],
@@ -1399,34 +1130,12 @@
         }
       },
       {
-<<<<<<< HEAD
-=======
-        "key": "stn_p01iQfpvir",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1805,
-          "y": 695,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["华师大门口", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
->>>>>>> origin/main
         "key": "stn_bAUFe8QuDn",
         "attributes": {
           "visible": true,
           "zIndex": 0,
           "x": 1735,
-<<<<<<< HEAD
           "y": 725,
-=======
-          "y": 750,
->>>>>>> origin/main
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["密西根学院", ""],
@@ -1436,20 +1145,6 @@
         }
       },
       {
-<<<<<<< HEAD
-=======
-        "key": "misc_node_Pugs_jgiXf",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1945,
-          "y": 695,
-          "type": "virtual",
-          "virtual": {}
-        }
-      },
-      {
->>>>>>> origin/main
         "key": "stn_OV-On4e1j8",
         "attributes": {
           "visible": true,
@@ -1509,11 +1204,7 @@
             "names": ["钱学森图书馆", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top",
-<<<<<<< HEAD
             "rotate": 135,
-=======
-            "rotate": 0,
->>>>>>> origin/main
             "height": 10,
             "width": 13
           }
@@ -1739,11 +1430,7 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["新上院", ""],
-<<<<<<< HEAD
             "nameOffsetX": "middle",
-=======
-            "nameOffsetX": "right",
->>>>>>> origin/main
             "nameOffsetY": "top"
           }
         }
@@ -1758,13 +1445,8 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["中院", ""],
-<<<<<<< HEAD
             "nameOffsetX": "left",
             "nameOffsetY": "bottom"
-=======
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
->>>>>>> origin/main
           }
         }
       },
@@ -1779,11 +1461,7 @@
           "shmetro-basic": {
             "names": ["海洋工程学院", ""],
             "nameOffsetX": "right",
-<<<<<<< HEAD
             "nameOffsetY": "middle"
-=======
-            "nameOffsetY": "top"
->>>>>>> origin/main
           }
         }
       },
@@ -1883,7 +1561,6 @@
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_0P4MBT9U3f",
         "attributes": {
           "visible": true,
@@ -2509,31 +2186,20 @@
       },
       {
         "key": "stn_flv8DZjf7t",
-=======
-        "key": "stn_xGU2WpwHQ_",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
           "x": 1110,
-<<<<<<< HEAD
           "y": -895,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["篮球场", ""],
-=======
-          "y": 515,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西五宿", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "top"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_G4qUpIYu5x",
         "attributes": {
           "visible": true,
@@ -2545,27 +2211,10 @@
             "names": ["报名大楼", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-        "key": "stn_UwstrLHxdq",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1130,
-          "y": 540,
-          "type": "shmetro-int",
-          "shmetro-int": {
-            "names": ["西四宿", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top",
-            "rotate": 0,
-            "height": 10,
-            "width": 13
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_O0yMFX7To1",
         "attributes": {
           "visible": true,
@@ -2575,202 +2224,27 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["长宁南门", ""],
-=======
-        "key": "stn_y8l0Kgjl8f",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1075,
-          "y": 505,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["北一门", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "top"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_gGbZPdzbOc",
-=======
-        "key": "stn_XHy6YHqNG_",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1145,
-          "y": 640,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西二宿", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_XqUvAplflb",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1165,
-          "y": 695,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["子衿街", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_ZqmYkdX7-O",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1080,
-          "y": 860,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["思源门", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
-          }
-        }
-      },
-      {
-        "key": "stn_ZRGtwuIHpx",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 965,
-          "y": 860,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["网球场", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_hdiFF1oAsf",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1400,
-          "y": 815,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["软件学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_3TVQ25obeE",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1505,
-          "y": 815,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["南大门", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_S-_PG10aNI",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1580,
-          "y": 815,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["航空航天学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_p5HNgJ5T99",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1190,
-          "y": 810,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["南体场南", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
-          }
-        }
-      },
-      {
-        "key": "stn_AhTrgyDRY5",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1135,
-          "y": 805,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西一宿南", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
-          }
-        }
-      },
-      {
-        "key": "stn_3L8xaXkI24",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1260,
-          "y": 810,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["东一宿南", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
-          }
-        }
-      },
-      {
-        "key": "stn_6WPxSHcWbs",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
           "x": 1330,
-<<<<<<< HEAD
           "y": -1025,
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["七八楼", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-          "y": 795,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["外国语学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_Iy1F8SYiIw",
         "attributes": {
           "visible": true,
@@ -2800,24 +2274,10 @@
             "names": ["黄埔西门", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-        "key": "stn_5gU6X4ZNYJ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1335,
-          "y": 770,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["人文学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_p_Pk2e6qUt",
         "attributes": {
           "visible": true,
@@ -2865,24 +2325,10 @@
             "names": ["动科部", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-        "key": "stn_fPMCOzrPt_",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1335,
-          "y": 750,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["设计学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_bUaGnwDzqr",
         "attributes": {
           "visible": true,
@@ -2894,24 +2340,10 @@
             "names": ["老红楼", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-        "key": "stn_z30DOvFauU",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1335,
-          "y": 735,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["马院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_nBNXoKVqIF",
         "attributes": {
           "visible": true,
@@ -2959,24 +2391,10 @@
             "names": ["北招待所", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-        "key": "stn_aHTl8PHguP",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1325,
-          "y": 700,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["媒传学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_Q6hy6FNkn4",
         "attributes": {
           "visible": true,
@@ -3006,24 +2424,10 @@
             "names": ["黄埔校医院", ""],
             "nameOffsetX": "right",
             "nameOffsetY": "top"
-=======
-        "key": "stn_8c-DwBbUH0",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1335,
-          "y": 715,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["法学院", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_KhncEQ-FPh",
         "attributes": {
           "visible": true,
@@ -3447,24 +2851,12 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["夏雨厅", ""],
-=======
-        "key": "stn_FwuY8pxRCH",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1265,
-          "y": 605,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["东三宿", ""],
->>>>>>> origin/main
             "nameOffsetX": "middle",
             "nameOffsetY": "bottom"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_dj4nmYLPpq",
         "attributes": {
           "visible": true,
@@ -3474,24 +2866,12 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["紫龙路", ""],
-=======
-        "key": "stn_pPl6Dofrc6",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1250,
-          "y": 540,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["东四宿南", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "top"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_qk7I0wn0Qw",
         "attributes": {
           "visible": true,
@@ -3501,24 +2881,12 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["华师研究生公寓", ""],
-=======
-        "key": "stn_FBvAADWjFi",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1235,
-          "y": 520,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["东四宿北", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "top"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_P5OzXSC2y5",
         "attributes": {
           "visible": true,
@@ -3543,24 +2911,12 @@
           "type": "shmetro-basic",
           "shmetro-basic": {
             "names": ["东海职业学院", ""],
-=======
-        "key": "stn_s2pT3MFrBt",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1185,
-          "y": 520,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["气膜馆", ""],
->>>>>>> origin/main
             "nameOffsetX": "right",
             "nameOffsetY": "top"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_TnBrFowBRZ",
         "attributes": {
           "visible": true,
@@ -3570,129 +2926,12 @@
           "type": "shmetro-osysi",
           "shmetro-osysi": {
             "names": ["信息数码港", ""],
-=======
-        "key": "stn_lkuFaI7JL3",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1105,
-          "y": 580,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西三宿西", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_Ef-ofr9ZYq",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 985,
-          "y": 655,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["理科实验楼", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_DRGBU6t2JQ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 960,
-          "y": 680,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西二门", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_62uOwY9xD5",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1250,
-          "y": 655,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["学生中心", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_pkBBq0DXO1",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1270,
-          "y": 675,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["东二宿", ""],
-            "nameOffsetX": "left",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_mJcUxkZILS",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1265,
-          "y": 775,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["蓁蓁楼", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_k8zKudnMHW",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1275,
-          "y": 795,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["东一宿北", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "middle"
-          }
-        }
-      },
-      {
-        "key": "stn_nMc0iDj2HS",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1185,
-          "y": 780,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["南体场北", ""],
->>>>>>> origin/main
             "nameOffsetX": "middle",
             "nameOffsetY": "bottom"
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "misc_node_OqScgn1oLj",
         "attributes": {
           "visible": true,
@@ -3705,24 +2944,10 @@
             "color": ["tokyo", "jy", "#9ACD32", "#000"],
             "num": 0,
             "crosshatchPatternFill": false
-=======
-        "key": "stn_vgPcbf4HJV",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1140,
-          "y": 780,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["哈乐餐厅", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
->>>>>>> origin/main
           }
         }
       },
       {
-<<<<<<< HEAD
         "key": "stn_SgNfstpSjz",
         "attributes": {
           "visible": true,
@@ -3737,56 +2962,12 @@
             "rotate": 0,
             "height": 10,
             "width": 13
-=======
-        "key": "stn_xi379BO_uQ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1010,
-          "y": 805,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["撷英园", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "top"
-          }
-        }
-      },
-      {
-        "key": "stn_dnSJyOZx59",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 1045,
-          "y": 805,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["思源湖南", ""],
-            "nameOffsetX": "middle",
-            "nameOffsetY": "bottom"
-          }
-        }
-      },
-      {
-        "key": "stn_tuUEhhDO9D",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "x": 950,
-          "y": 725,
-          "type": "shmetro-basic",
-          "shmetro-basic": {
-            "names": ["西一门", ""],
-            "nameOffsetX": "right",
-            "nameOffsetY": "top"
->>>>>>> origin/main
           }
         }
       }
     ],
     "edges": [
       {
-<<<<<<< HEAD
         "key": "line_feROzCobFo",
         "source": "stn_NgXpWVzh3s",
         "target": "stn_vpsDUMWstB",
@@ -3808,8 +2989,6 @@
         }
       },
       {
-=======
->>>>>>> origin/main
         "key": "line_8NTTCF-puJ",
         "source": "stn_DNas45DmcK",
         "target": "stn_o7bl0LEYuB",
@@ -3824,13 +3003,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#E3002B", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#E3002B", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -3843,13 +3018,9 @@
           "zIndex": 0,
           "type": "perpendicular",
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#E3002B", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#E3002B", "#fff"] },
->>>>>>> origin/main
           "reconcileId": "",
           "perpendicular": {
             "startFrom": "from",
@@ -3860,7 +3031,6 @@
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_ecvVNkxFtq",
         "source": "stn_xEqJFR2mPW",
         "target": "stn_y-cUIeURCV",
@@ -3903,8 +3073,6 @@
         }
       },
       {
-=======
->>>>>>> origin/main
         "key": "line_4k7-GCXEAU",
         "source": "stn_nXXEEmpQEz",
         "target": "stn_okETwfbNce",
@@ -3919,13 +3087,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -3966,13 +3130,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -3992,13 +3152,9 @@
           },
           "style": "bjsubway-dotted",
           "reconcileId": "",
-<<<<<<< HEAD
           "bjsubway-dotted": {
             "color": ["shanghai", "sh5", "#944d9a", "#fff"]
           }
-=======
-          "bjsubway-dotted": { "color": ["shanghai", "sh5", "#944d9a", "#fff"] }
->>>>>>> origin/main
         }
       },
       {
@@ -4015,15 +3171,9 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "shmetro-virtual-int",
           "reconcileId": "",
           "shmetro-virtual-int": {}
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
->>>>>>> origin/main
         }
       },
       {
@@ -4040,7 +3190,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "shmetro-virtual-int",
           "reconcileId": "",
           "shmetro-virtual-int": {}
@@ -4065,11 +3214,6 @@
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
           },
           "reconcileId": ""
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
->>>>>>> origin/main
         }
       },
       {
@@ -4087,13 +3231,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4106,13 +3246,9 @@
           "zIndex": 0,
           "type": "perpendicular",
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": "",
           "perpendicular": {
             "startFrom": "to",
@@ -4137,13 +3273,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4162,13 +3294,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4187,13 +3315,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4212,13 +3336,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4237,13 +3357,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4262,13 +3378,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4287,13 +3399,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4312,13 +3420,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4337,18 +3441,13 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_DeD7_lIaSG",
         "source": "stn_NgXpWVzh3s",
         "target": "stn_nXXEEmpQEz",
@@ -4452,8 +3551,6 @@
         }
       },
       {
-=======
->>>>>>> origin/main
         "key": "line_HsBi1BgGfZ",
         "source": "stn_8PWxEqABwI",
         "target": "stn_y-cUIeURCV",
@@ -4467,7 +3564,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "shmetro-virtual-int",
           "reconcileId": "",
           "shmetro-virtual-int": {}
@@ -4490,11 +3586,6 @@
           "style": "shmetro-virtual-int",
           "reconcileId": "",
           "shmetro-virtual-int": {}
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
->>>>>>> origin/main
         }
       },
       {
@@ -4513,13 +3604,9 @@
           },
           "style": "bjsubway-dotted",
           "reconcileId": "",
-<<<<<<< HEAD
           "bjsubway-dotted": {
             "color": ["shanghai", "sh5", "#944d9a", "#fff"]
           }
-=======
-          "bjsubway-dotted": { "color": ["shanghai", "sh5", "#944d9a", "#fff"] }
->>>>>>> origin/main
         }
       },
       {
@@ -4596,13 +3683,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh4", "#461d84", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4621,13 +3704,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4646,13 +3725,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4671,13 +3746,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4696,13 +3767,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4721,13 +3788,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4746,13 +3809,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4771,13 +3830,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4796,13 +3851,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4821,7 +3872,6 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh4", "#461d84", "#fff"]
           },
@@ -4846,9 +3896,6 @@
           "single-color": {
             "color": ["shanghai", "sh4", "#461d84", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4867,13 +3914,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4892,13 +3935,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4917,13 +3956,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4942,13 +3977,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4967,13 +3998,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -4992,13 +4019,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5017,13 +4040,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5042,13 +4061,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5067,13 +4082,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5111,13 +4122,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5137,13 +4144,9 @@
           },
           "style": "bjsubway-dotted",
           "reconcileId": "",
-<<<<<<< HEAD
           "bjsubway-dotted": {
             "color": ["shanghai", "sh5", "#944d9a", "#fff"]
           }
-=======
-          "bjsubway-dotted": { "color": ["shanghai", "sh5", "#944d9a", "#fff"] }
->>>>>>> origin/main
         }
       },
       {
@@ -5161,13 +4164,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5186,13 +4185,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5211,13 +4206,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5236,13 +4227,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh1", "#e3002b", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5280,13 +4267,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5305,13 +4288,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5330,13 +4309,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5355,13 +4330,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5380,13 +4351,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5405,13 +4372,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5424,13 +4387,9 @@
           "zIndex": 0,
           "type": "perpendicular",
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": "",
           "perpendicular": {
             "startFrom": "from",
@@ -5455,13 +4414,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5554,28 +4509,6 @@
         }
       },
       {
-<<<<<<< HEAD
-=======
-        "key": "line_QZCI3fOfxm",
-        "source": "stn_2hs1HATV_e",
-        "target": "stn_MWjBw9qaS-",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
-          "reconcileId": ""
-        }
-      },
-      {
->>>>>>> origin/main
         "key": "line_PEmYw0YBeD",
         "source": "stn_2hs1HATV_e",
         "target": "stn_IcyIS0LQJN",
@@ -5589,34 +4522,9 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "china-railway",
           "reconcileId": "",
           "china-railway": {}
-=======
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_pyb3rW6rkc",
-        "source": "stn_IcyIS0LQJN",
-        "target": "stn_p6Cavv0rL5",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
-          "reconcileId": ""
->>>>>>> origin/main
         }
       },
       {
@@ -5628,13 +4536,9 @@
           "zIndex": 0,
           "type": "diagonal",
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": "",
           "diagonal": {
             "startFrom": "to",
@@ -5659,32 +4563,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_XxkXNp1FFX",
-        "source": "stn_aXVlRaUYfs",
-        "target": "stn_zqAVVwFuIu",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5703,13 +4584,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5766,13 +4643,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh13", "#e999c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh13", "#e999c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5791,13 +4664,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh4", "#461d84", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5816,13 +4685,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5841,13 +4706,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5866,13 +4727,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5891,13 +4748,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5916,13 +4769,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh4", "#461d84", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5941,13 +4790,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh4", "#461d84", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5966,13 +4811,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -5991,13 +4832,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6016,13 +4853,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh13", "#e999c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh13", "#e999c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6041,13 +4874,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6066,13 +4895,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6091,13 +4916,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6116,13 +4937,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6141,13 +4958,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6166,13 +4979,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh2", "#82bf25", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6204,16 +5013,11 @@
           "zIndex": 0,
           "type": "diagonal",
           "diagonal": {
-<<<<<<< HEAD
             "startFrom": "from",
-=======
-            "startFrom": "to",
->>>>>>> origin/main
             "offsetFrom": 0,
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "shmetro-virtual-int",
           "reconcileId": "",
           "shmetro-virtual-int": {}
@@ -6236,11 +5040,6 @@
           "style": "shmetro-virtual-int",
           "reconcileId": "",
           "shmetro-virtual-int": {}
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
->>>>>>> origin/main
         }
       },
       {
@@ -6258,32 +5057,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh8", "#0094d8", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh8", "#0094d8", "#fff"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_Tq8nVdz8Zo",
-        "source": "stn_HRZISrH3Pw",
-        "target": "stn_p01iQfpvir",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh13", "#e999c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6302,13 +5078,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6327,13 +5099,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6352,13 +5120,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh16", "#98d1c0", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6377,13 +5141,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6402,32 +5162,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["shanghai", "sh6", "#d40068", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh6", "#d40068", "#fff"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_0KccQNzrpy",
-        "source": "stn_p01iQfpvir",
-        "target": "misc_node_Pugs_jgiXf",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["other", "other", "#5e5c64", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6446,13 +5183,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6471,13 +5204,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#865e3c", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#865e3c", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6496,13 +5225,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6517,7 +5242,6 @@
           "diagonal": {
             "startFrom": "from",
             "offsetFrom": 0,
-<<<<<<< HEAD
             "offsetTo": 3,
             "roundCornerFactor": 10
           },
@@ -6525,13 +5249,6 @@
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6550,13 +5267,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6575,13 +5288,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6600,13 +5309,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6625,13 +5330,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6650,13 +5351,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6675,13 +5372,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6700,13 +5393,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6725,13 +5414,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6746,7 +5431,6 @@
           "diagonal": {
             "startFrom": "from",
             "offsetFrom": 0,
-<<<<<<< HEAD
             "offsetTo": -2,
             "roundCornerFactor": 10
           },
@@ -6754,13 +5438,6 @@
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6779,13 +5456,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6804,13 +5477,9 @@
             "roundCornerFactor": 18.33
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6829,13 +5498,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6854,13 +5519,9 @@
             "roundCornerFactor": 18.33
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6879,13 +5540,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6904,13 +5561,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6929,13 +5582,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6954,13 +5603,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -6979,13 +5624,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7004,13 +5645,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#8ff0a4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#8ff0a4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7029,13 +5666,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7054,13 +5687,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7079,13 +5708,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#3584e4", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#3584e4", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7104,13 +5729,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#f9f06b", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7129,13 +5750,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#f9f06b", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7154,13 +5771,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#f9f06b", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7179,13 +5792,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#f9f06b", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7204,13 +5813,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ffa348", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7229,13 +5834,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ffa348", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7254,13 +5855,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ffa348", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7279,13 +5876,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ffa348", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7304,13 +5897,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ffa348", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#ffa348", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7329,13 +5918,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7354,13 +5939,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7379,13 +5960,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7404,13 +5981,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7429,13 +6002,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7454,13 +6023,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7479,13 +6044,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7504,13 +6065,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7529,13 +6086,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7554,13 +6107,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7579,13 +6128,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#9141ac", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7604,13 +6149,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#f9f06b", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#f9f06b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7629,13 +6170,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#77767b", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#77767b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7654,13 +6191,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#032580", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7679,13 +6212,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#032580", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7704,13 +6233,9 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#032580", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
@@ -7729,26 +6254,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#032580", "#fff"]
           },
-=======
-          "single-color": { "color": ["other", "other", "#032580", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_LrWqePlZrv",
         "source": "stn_UAWoL0d9u0",
         "target": "stn_FdDUVxdv4p",
-=======
-        "key": "line_J59GF4zhOx",
-        "source": "stn_xGU2WpwHQ_",
-        "target": "stn_UwstrLHxdq",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -7759,7 +6274,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#9141ac", "#fff"]
@@ -7793,17 +6307,6 @@
         "key": "line_tLmkXk5F61",
         "source": "stn_U4HlsGuV4W",
         "target": "stn_orG133aU0U",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_kzd4-MXWtw",
-        "source": "stn_UwstrLHxdq",
-        "target": "stn_8Yl4pi5_D0",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -7814,7 +6317,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "dual-color",
           "reconcileId": "",
           "dual-color": {
@@ -7827,32 +6329,16 @@
         "key": "line_rsTW53sVHn",
         "source": "stn_T7VNoL0_YL",
         "target": "stn_T7VNoL0_YL",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_HHZYBPOH5G",
-        "source": "stn_xGU2WpwHQ_",
-        "target": "stn_y8l0Kgjl8f",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
           "type": "diagonal",
           "diagonal": {
-<<<<<<< HEAD
             "startFrom": "from",
-=======
-            "startFrom": "to",
->>>>>>> origin/main
             "offsetFrom": 0,
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#980000", "#fff"]
@@ -8096,17 +6582,6 @@
         "key": "line_Rvw4H723fm",
         "source": "stn_NyqE_VI2S4",
         "target": "stn_fPUdfgotRZ",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_o3FCax4s6d",
-        "source": "stn_UwstrLHxdq",
-        "target": "stn_NtxCzcSl__",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8118,273 +6593,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_RyiSPhTbht",
         "source": "stn_fPUdfgotRZ",
         "target": "stn_p_Pk2e6qUt",
-=======
-        "key": "line_HuU7GwYK8n",
-        "source": "stn_8Yl4pi5_D0",
-        "target": "stn_niR01-5l94",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_eOKKBfNbQe",
-        "source": "stn_niR01-5l94",
-        "target": "stn_XHy6YHqNG_",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_ffRB4OTosx",
-        "source": "stn_y8l0Kgjl8f",
-        "target": "stn_xEqJFR2mPW",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_xG3SfffoPx",
-        "source": "stn_XHy6YHqNG_",
-        "target": "stn_jMaq8iDYI3",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_PtFT3TfaL7",
-        "source": "stn_jMaq8iDYI3",
-        "target": "stn_XqUvAplflb",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_YEs-0tF-ya",
-        "source": "stn_XqUvAplflb",
-        "target": "stn_2AzwDf9Lec",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_DU4Xp1jXwh",
-        "source": "stn_vpsDUMWstB",
-        "target": "stn_mvBab8iRCh",
-        "attributes": {
-          "visible": true,
-          "zIndex": -2,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_yZWP-xGSPG",
-        "source": "stn_mvBab8iRCh",
-        "target": "stn_KbtxARBE8X",
-        "attributes": {
-          "visible": true,
-          "zIndex": -2,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_CH4NttVNpI",
-        "source": "stn_2AzwDf9Lec",
-        "target": "stn_NgXpWVzh3s",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_7bCfxSwWVs",
-        "source": "stn_nXXEEmpQEz",
-        "target": "stn_ZqmYkdX7-O",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_m5LfCl9XD2",
-        "source": "stn_ZqmYkdX7-O",
-        "target": "stn_okETwfbNce",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_0QBeyuOqaa",
-        "source": "stn_okETwfbNce",
-        "target": "stn_ZRGtwuIHpx",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh3", "#fcd600", "#000"] }
-        }
-      },
-      {
-        "key": "line_VhaoOm4rl1",
-        "source": "stn_2AzwDf9Lec",
-        "target": "stn_X7o6WO1CCF",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_JKU00KFvO5",
-        "source": "stn_X7o6WO1CCF",
-        "target": "stn_MBqDJgV6lG",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8396,26 +6614,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_gCpIFZkdZ8",
         "source": "stn_p_Pk2e6qUt",
         "target": "stn_si41C6RjSc",
-=======
-        "key": "line_UVx4IcROD9",
-        "source": "stn_MBqDJgV6lG",
-        "target": "stn_G35LZfzXFR",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8427,26 +6635,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_A1SJpzaCuy",
         "source": "stn_si41C6RjSc",
         "target": "stn_2fomC_MPIn",
-=======
-        "key": "line_r0asGwYF63",
-        "source": "stn_G35LZfzXFR",
-        "target": "stn_hdiFF1oAsf",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8458,26 +6656,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_QNvgxusvFf",
         "source": "stn_2fomC_MPIn",
         "target": "stn_EyyPcGU3rD",
-=======
-        "key": "line_edNzHcKCKF",
-        "source": "stn_hdiFF1oAsf",
-        "target": "stn_3TVQ25obeE",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8489,26 +6677,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_wuBzUsDJEp",
         "source": "stn_Q6hy6FNkn4",
         "target": "stn__GMYJFNUr1",
-=======
-        "key": "line_WUBX6YL5Sa",
-        "source": "stn_3TVQ25obeE",
-        "target": "stn_S-_PG10aNI",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8520,64 +6698,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_928f2_ArwT",
         "source": "stn_XyLnOiC9Nx",
         "target": "stn_0TVLG-V3v9",
-=======
-        "key": "line_SLqvZzadm5",
-        "source": "stn_S-_PG10aNI",
-        "target": "stn_bAUFe8QuDn",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh10", "#c6afd4", "#000"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_NbjJp7T0_N",
-        "source": "stn_nXXEEmpQEz",
-        "target": "stn_AhTrgyDRY5",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_m2NDMDiN9f",
-        "source": "stn_AhTrgyDRY5",
-        "target": "stn_p5HNgJ5T99",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8588,7 +6718,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 18.33
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#8577ee", "#fff"]
@@ -8600,112 +6729,6 @@
         "key": "line_XHodOXZ18S",
         "source": "stn_gnoiWUxPm2",
         "target": "stn_0TVLG-V3v9",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_LLdYAJjVWZ",
-        "source": "stn_p5HNgJ5T99",
-        "target": "stn_MBqDJgV6lG",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_qL2ZTHBnVg",
-        "source": "stn_MBqDJgV6lG",
-        "target": "stn_3L8xaXkI24",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_aqzNEEI4Ip",
-        "source": "stn_3L8xaXkI24",
-        "target": "stn_G35LZfzXFR",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_jZPuvcRRtd",
-        "source": "stn_G35LZfzXFR",
-        "target": "stn_6WPxSHcWbs",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_OMPSv-0ZFQ",
-        "source": "stn_6WPxSHcWbs",
-        "target": "stn_5gU6X4ZNYJ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_dE2ywxmRwR",
-        "source": "stn_5gU6X4ZNYJ",
-        "target": "stn_fPMCOzrPt_",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8716,7 +6739,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 18.33
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#8577ee", "#fff"]
@@ -8831,17 +6853,6 @@
         "key": "line_XZVIr5kPvq",
         "source": "stn_SjT-bBiBWK",
         "target": "stn_jpyF__FXcL",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_vARM1H0WxY",
-        "source": "stn_fPMCOzrPt_",
-        "target": "stn_z30DOvFauU",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8852,7 +6863,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "china-railway",
           "reconcileId": "",
           "china-railway": {}
@@ -8862,17 +6872,6 @@
         "key": "line_K5tLTOGglm",
         "source": "stn_VuwW16y4rk",
         "target": "stn_NBf2sQYNPp",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_6Zl1z7lm0c",
-        "source": "stn_z30DOvFauU",
-        "target": "stn_8c-DwBbUH0",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -8883,7 +6882,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#00ffee", "#fff"]
@@ -9106,17 +7104,6 @@
         "key": "line_n-oLR41QIX",
         "source": "stn_zw-pIf3_lK",
         "target": "stn_si41C6RjSc",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_jpceWdAkfV",
-        "source": "stn_8c-DwBbUH0",
-        "target": "stn_aHTl8PHguP",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -9127,7 +7114,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "dual-color",
           "reconcileId": "",
           "dual-color": {
@@ -9140,17 +7126,6 @@
         "key": "line_MfpazOu95j",
         "source": "stn_eSbZgFLZ1F",
         "target": "stn_zqAVVwFuIu",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_5rLkjLfrTc",
-        "source": "stn_aHTl8PHguP",
-        "target": "stn_OD8KCGkMSI",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -9161,7 +7136,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["shanghai", "sh16", "#98d1c0", "#000"]
@@ -9234,17 +7208,6 @@
         "key": "line_HufWhHcHc-",
         "source": "stn_r5YR7Q2ZtY",
         "target": "stn_poOICSnFzd",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_uBeT9hADEL",
-        "source": "stn_NtxCzcSl__",
-        "target": "stn_pPl6Dofrc6",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -9255,7 +7218,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "gzmtr-virtual-int",
           "reconcileId": "",
           "gzmtr-virtual-int": {}
@@ -9265,17 +7227,6 @@
         "key": "line_MCSvIYXXfU",
         "source": "stn_0aksUP4XZm",
         "target": "stn_IcyIS0LQJN",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_WXrGiMRsbX",
-        "source": "stn_pPl6Dofrc6",
-        "target": "stn_FBvAADWjFi",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -9286,7 +7237,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "china-railway",
           "reconcileId": "",
           "china-railway": {}
@@ -9296,17 +7246,6 @@
         "key": "line_efWiVimebO",
         "source": "stn_HRZISrH3Pw",
         "target": "stn_0P4MBT9U3f",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_42cz8Qrn7X",
-        "source": "stn_FBvAADWjFi",
-        "target": "stn_s2pT3MFrBt",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -9317,7 +7256,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["shanghai", "sh10", "#c6afd4", "#000"]
@@ -10083,17 +8021,6 @@
         "key": "line_DQY3inkQvs",
         "source": "stn_9nze7O--z2",
         "target": "stn_dj4nmYLPpq",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_1LAEIhKRdm",
-        "source": "stn_s2pT3MFrBt",
-        "target": "stn_UwstrLHxdq",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10104,7 +8031,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "gzmtr-virtual-int",
           "reconcileId": "",
           "gzmtr-virtual-int": {}
@@ -10114,17 +8040,6 @@
         "key": "line_CBxAzDc3r4",
         "source": "stn_t-HuntRkeg",
         "target": "stn_P5OzXSC2y5",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_rfixSM1DP0",
-        "source": "stn_UwstrLHxdq",
-        "target": "stn_lkuFaI7JL3",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10135,7 +8050,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#99ff00", "#fff"]
@@ -10628,32 +8542,16 @@
         "key": "line_Emply3AqWb",
         "source": "stn_XaRDTI4MfV",
         "target": "stn_zw-pIf3_lK",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_jgBxP0qf45",
-        "source": "stn_lkuFaI7JL3",
-        "target": "stn_8PWxEqABwI",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
           "type": "diagonal",
           "diagonal": {
-<<<<<<< HEAD
             "startFrom": "from",
-=======
-            "startFrom": "to",
->>>>>>> origin/main
             "offsetFrom": 0,
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "china-railway",
           "reconcileId": "",
           "china-railway": {}
@@ -10663,17 +8561,6 @@
         "key": "line_686Tn48fLZ",
         "source": "stn_SjT-bBiBWK",
         "target": "stn_NyqE_VI2S4",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_0K28CSPPTy",
-        "source": "stn_8PWxEqABwI",
-        "target": "stn_sDeCNnAGRG",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10684,7 +8571,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#ff00ff", "#fff"]
@@ -10757,17 +8643,6 @@
         "key": "line_bTA-bYQSCi",
         "source": "stn_TnBrFowBRZ",
         "target": "stn_2hs1HATV_e",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_ZRoeHeXMXk",
-        "source": "stn_sDeCNnAGRG",
-        "target": "stn_Ef-ofr9ZYq",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10778,7 +8653,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "china-railway",
           "reconcileId": "",
           "china-railway": {}
@@ -10788,32 +8662,16 @@
         "key": "line_zmAesYa4K0",
         "source": "stn_poOICSnFzd",
         "target": "stn_TnBrFowBRZ",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_jOP4b6Z3q7",
-        "source": "stn_Ef-ofr9ZYq",
-        "target": "stn_DRGBU6t2JQ",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
           "type": "diagonal",
           "diagonal": {
-<<<<<<< HEAD
             "startFrom": "from",
-=======
-            "startFrom": "to",
->>>>>>> origin/main
             "offsetFrom": 0,
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["shanghai", "sh2", "#82bf25", "#000"]
@@ -10867,17 +8725,6 @@
         "key": "line_ccN0ZFzfiX",
         "source": "stn_Iy1F8SYiIw",
         "target": "stn_FdDUVxdv4p",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_cJBDtVMvKa",
-        "source": "stn_62uOwY9xD5",
-        "target": "stn_pkBBq0DXO1",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10888,7 +8735,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "bjsubway-dotted",
           "reconcileId": "",
           "bjsubway-dotted": {
@@ -10900,17 +8746,6 @@
         "key": "line_-qao_RQZ3-",
         "source": "stn_aBasZPKvs7",
         "target": "stn_AUwrKvxNo6",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_topORt1YiW",
-        "source": "stn_xw_JZee4RD",
-        "target": "stn_mJcUxkZILS",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10921,7 +8756,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "bjsubway-dotted",
           "reconcileId": "",
           "bjsubway-dotted": {
@@ -10933,17 +8767,6 @@
         "key": "line_3SlrPEDNW6",
         "source": "stn_AUwrKvxNo6",
         "target": "stn_yY98Kxol1G",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_zMAPN2Uxvp",
-        "source": "stn_mJcUxkZILS",
-        "target": "stn_k8zKudnMHW",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10954,7 +8777,6 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "bjsubway-dotted",
           "reconcileId": "",
           "bjsubway-dotted": {
@@ -10966,17 +8788,6 @@
         "key": "line_3nw2R--j4v",
         "source": "stn_d6k8uyQlmf",
         "target": "stn_SgNfstpSjz",
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_IA1o1slKbS",
-        "source": "stn_k8zKudnMHW",
-        "target": "stn_k8zKudnMHW",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -10988,330 +8799,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#99ff00", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_YFSuhiXLf0",
         "source": "stn_SgNfstpSjz",
         "target": "stn_1J3PUK9vdp",
-=======
-        "key": "line_On_C7fbS55",
-        "source": "stn_MBqDJgV6lG",
-        "target": "stn_nMc0iDj2HS",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_RFoYDrWBFA",
-        "source": "stn_nMc0iDj2HS",
-        "target": "stn_vgPcbf4HJV",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_6FYjhQ8es3",
-        "source": "stn_vgPcbf4HJV",
-        "target": "stn_mvBab8iRCh",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_kMYOxqGUk3",
-        "source": "stn_nXXEEmpQEz",
-        "target": "stn_dnSJyOZx59",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_2GdExhrwwX",
-        "source": "stn_dnSJyOZx59",
-        "target": "stn_xi379BO_uQ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_lcxciI23VQ",
-        "source": "stn_xi379BO_uQ",
-        "target": "stn_hNl_2EtiOQ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_hKZFi4WLzA",
-        "source": "stn_hNl_2EtiOQ",
-        "target": "stn_8pREVYfXqQ",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_KkVAIhkLFE",
-        "source": "stn_8pREVYfXqQ",
-        "target": "stn_tuUEhhDO9D",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_w25KVv2aGs",
-        "source": "stn_tuUEhhDO9D",
-        "target": "stn_iqYkeWpw8I",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_q5Ogn_IW3B",
-        "source": "stn_iqYkeWpw8I",
-        "target": "stn_y-cUIeURCV",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
-        }
-      },
-      {
-        "key": "line_izhmTPxEhv",
-        "source": "stn_NtxCzcSl__",
-        "target": "stn_FwuY8pxRCH",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_3XDl6VSgZz",
-        "source": "stn_FwuY8pxRCH",
-        "target": "stn_62uOwY9xD5",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_4uDEwK3Jb4",
-        "source": "stn_OD8KCGkMSI",
-        "target": "stn_pkBBq0DXO1",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_QGBf4LKuVH",
-        "source": "stn_B9y1L7DA2x",
-        "target": "stn_xw_JZee4RD",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_ZI94c_R7pJ",
-        "source": "stn_k8zKudnMHW",
-        "target": "stn_G35LZfzXFR",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_2exyqEXbpQ",
-        "source": "stn_MBqDJgV6lG",
-        "target": "stn_mJcUxkZILS",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "from",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh11", "#871c2b", "#fff"] }
-        }
-      },
-      {
-        "key": "line_bsQuuM-IJE",
-        "source": "stn_xEqJFR2mPW",
-        "target": "stn_8PWxEqABwI",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -11323,45 +8820,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#99ff00", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_VmE3WBzxuQ",
         "source": "stn_UTAz42qJyc",
         "target": "stn_SgNfstpSjz",
-=======
-        "key": "line_S0Lo4qaokb",
-        "source": "stn_8PWxEqABwI",
-        "target": "stn_vpsDUMWstB",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh1", "#e3002b", "#fff"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_lqAaQBdcvc",
-        "source": "stn_UwstrLHxdq",
-        "target": "stn_8PWxEqABwI",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -11373,45 +8841,16 @@
             "roundCornerFactor": 10
           },
           "style": "single-color",
-<<<<<<< HEAD
           "single-color": {
             "color": ["other", "other", "#f5f57a", "#fff"]
           },
-=======
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
->>>>>>> origin/main
           "reconcileId": ""
         }
       },
       {
-<<<<<<< HEAD
         "key": "line_Fex7a4U0L6",
         "source": "stn_SgNfstpSjz",
         "target": "stn_Tq5vSi7W-K",
-=======
-        "key": "line_MtWynuG6kH",
-        "source": "stn_8PWxEqABwI",
-        "target": "stn_iqYkeWpw8I",
-        "attributes": {
-          "visible": true,
-          "zIndex": 0,
-          "type": "diagonal",
-          "diagonal": {
-            "startFrom": "to",
-            "offsetFrom": 0,
-            "offsetTo": 0,
-            "roundCornerFactor": 10
-          },
-          "style": "single-color",
-          "single-color": { "color": ["shanghai", "sh4", "#461d84", "#fff"] },
-          "reconcileId": ""
-        }
-      },
-      {
-        "key": "line_odwAQ8k5W9",
-        "source": "stn_OD8KCGkMSI",
-        "target": "stn_mBD-ksHXbR",
->>>>>>> origin/main
         "attributes": {
           "visible": true,
           "zIndex": 0,
@@ -11422,17 +8861,11 @@
             "offsetTo": 0,
             "roundCornerFactor": 10
           },
-<<<<<<< HEAD
           "style": "single-color",
           "single-color": {
             "color": ["other", "other", "#f5f57a", "#fff"]
           },
           "reconcileId": ""
-=======
-          "style": "bjsubway-tram",
-          "reconcileId": "",
-          "bjsubway-tram": { "color": ["shanghai", "sh7", "#ed6f00", "#000"] }
->>>>>>> origin/main
         }
       }
     ]
